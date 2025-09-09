@@ -216,6 +216,8 @@ Albania, Andorra, Armenia, Azerbaijan, Belarus, Bosnia and Herzegovina, Georgia,
 #### Live Event Experience:
 - **Live Audience:** 3,500 ticket holders in ancient amphitheater
 - **Global Streaming:** Live broadcast for online community
+- **All 48 Recap:** Each of the 48 main tournament participants gets 30 seconds live on stage for final recap
+- **96 Highlight Video:** All 96 original participants featured in 10-second segments in best-of summary video
 - **Real-time Voting:** Community votes after each presentation round
 - **Immediate Results:** Eliminations announced live on stage
 - **Victory Ceremony:** 1 Million Euro prize awarded to champion
@@ -233,7 +235,9 @@ Albania, Andorra, Armenia, Azerbaijan, Belarus, Bosnia and Herzegovina, Georgia,
 
 ### Event Structure:
 - **Single Evening Event:** All 8 startups compete with live eliminations
-- **Live Presentations:** Each round featuring remaining startups on stage
+- **All 48 Recognition:** Each main tournament participant gets 30 seconds live on stage
+- **96 Highlight Reel:** All original participants featured in 10-second recap video segments
+- **Live Presentations:** Each elimination round featuring remaining startups on stage
 - **Live Audience:** 3,500 spectators witnessing historic competition
 - **Global Streaming:** Worldwide broadcast for online community
 - **Victory Ceremony:** Winner announcement and 1 million euro award presentation
