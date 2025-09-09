@@ -81,6 +81,41 @@ Albania, Andorra, Armenia, Azerbaijan, Belarus, Bosnia and Herzegovina, Georgia,
 4. Country representation checked before final acceptance
 5. First-come, first-served within like tier brackets (subject to country representation)
 
+#### Entry Fee & Acceptance:
+- **Entry Fee:** €987 per startup/founder upon acceptance to Qualification Round 2
+- **Payment Deadline:** 24 hours to accept offer and complete payment after approval
+- **Non-refundable:** Fee secures position in tournament and access to benefits
+
+---
+
+## 💰 Benefits & Sponsorship Structure
+
+### 🎯 Participation Benefits:
+- **Social Media Growth:** Massive audience exposure across multiple platforms
+- **Investor Attention:** VCs and investors actively follow tournament progression
+- **Media Coverage:** European startup ecosystem coverage and recognition
+- **Networking:** Access to fellow founders, mentors, and industry experts
+- **Sponsorship Opportunities:** Corporate partnership possibilities
+
+### 🤝 Sponsorship & Revenue Model:
+
+#### Corporate Sponsorship Opportunities:
+- **Brand Integration:** Companies can sponsor startups (e.g., "Red Bull StartupName")
+- **Self-Sourced:** Founders must find and negotiate their own sponsorship deals
+- **Contract Management:** Founders handle all sponsorship contracts independently
+
+#### Sponsorship Fee Structure & Revenue Sharing:
+- **Qualification Round 2:** Founders keep 100% of sponsorship revenue
+- **Round 1 (48→32):** Minimum €5,000 sponsorship, 50/50 split (€2,500 to funding pool, €2,500 to founder)
+- **Round 2 (32→16):** Minimum €10,000 sponsorship, 50/50 split (€5,000 to funding pool, €5,000 to founder)
+- **Subsequent Rounds:** Sponsorship minimums continue to increase, 50/50 split maintained
+- **Funding Pool Growth:** Sponsorship contributions increase the total prize fund
+
+#### Winner Investment Terms:
+- **Prize:** €1,000,000 seed funding for tournament champion
+- **Equity Stake:** 20% equity to Hominio platform for investment and ongoing support
+- **Investment Structure:** Professional seed funding with mentorship and network access
+
 ---
 
 ### 🏟️ Qualification Round 2: The Group Stage
@@ -224,15 +259,18 @@ Albania, Andorra, Armenia, Azerbaijan, Belarus, Bosnia and Herzegovina, Georgia,
 ## 💰 Prize Structure
 
 ### Grand Prize:
-- **1 Million Euro Seed Funding** for the winning startup
+- **€1,000,000+ Seed Funding** for the winning startup (base prize + sponsorship contributions)
+- **20% Equity Stake** to Hominio platform for ongoing support and investment
 - Global recognition and media coverage
 - Access to investor network and mentorship
+- Professional investment structure with continued guidance
 
 ### Additional Benefits:
-- Extensive networking opportunities
-- Media exposure throughout the tournament
-- Access to European startup ecosystem
-- Potential investor connections for all participants
+- **Revenue Opportunities:** Sponsorship earnings throughout tournament progression
+- **Investor Exposure:** VCs and angels actively following competition
+- **Media Coverage:** Extensive European startup ecosystem exposure
+- **Network Access:** Connections with fellow founders, mentors, and industry leaders
+- **Brand Building:** Social media audience growth and recognition
 
 ---
 
