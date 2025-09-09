@@ -25,7 +25,11 @@ The event culminates in the **Hominio Summit No1 Grand Finale** on **March 21, 2
 **Objective:** Select the top 96 European startups for Qualification Round 2
 
 #### Participation Requirements:
-1. **Eligibility:** European-based startups (founders must be European residents)
+1. **Eligibility:** 
+   - European-based startups (founders must be European residents)
+   - Maximum **€300,000 in total funding** received to date
+   - Stage: From idea stage solo founders to small teams with early traction
+   - Can have prototype/MVP running but still in early development phase
 2. **Video Submission:** 
    - Maximum 3 minutes pitch video
    - Must be presented personally by founder(s) - no third parties
@@ -47,11 +51,32 @@ The event culminates in the **Hominio Summit No1 Grand Finale** on **March 21, 2
 - **Positions 73-84:** 700 likes minimum
 - **Positions 85-96:** 800 likes minimum
 
+#### Eligible Countries (**48 Total**):
+**European Union (27 countries):**
+Austria, Belgium, Bulgaria, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland, Italy, Latvia, Lithuania, Luxembourg, Malta, Netherlands, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden
+
+**European Economic Area (EEA) + EFTA (4 countries):**
+Iceland, Liechtenstein, Norway, Switzerland
+
+**European Countries (Non-EU) (17 countries):**
+Albania, Andorra, Armenia, Azerbaijan, Belarus, Bosnia and Herzegovina, Georgia, Kosovo, Moldova, Monaco, Montenegro, North Macedonia, San Marino, Serbia, Turkey, Ukraine, United Kingdom
+
+**Excluded:** Russia, Vatican City (too small for representation)
+
+#### Country Representation Algorithm:
+- **Minimum requirement:** At least 1 startup from each eligible country must qualify
+- **Wildcard allocation:** Final qualification spots (positions 85-96) are reserved for countries not yet represented
+- **Priority system:** If multiple countries missing representation, priority given to:
+  1. Largest startup ecosystems (Germany, France, UK, Netherlands, etc.)
+  2. Emerging markets with high potential (Poland, Estonia, Lithuania, etc.)
+  3. Underrepresented regions to ensure continental diversity
+
 #### Submission & Review Process:
 1. Once like threshold is reached, submit post URL to Hominio Summit platform
 2. Review period: Maximum 48 hours
 3. Decision: Accept or Decline with brief feedback
-4. First-come, first-served within like tier brackets
+4. Country representation checked before final acceptance
+5. First-come, first-served within like tier brackets (subject to country representation)
 
 ---
 
@@ -146,16 +171,24 @@ The event culminates in the **Hominio Summit No1 Grand Finale** on **March 21, 2
 ## 🌍 European Focus & Values
 
 ### Geographic Scope:
-- **European Union** member countries
-- **European Economic Area** (EEA) countries
-- **Switzerland** and other European innovation hubs
-- Founder residency requirement in European territory
+- **48 European Countries** eligible for participation
+- **Comprehensive Coverage:** EU, EEA, EFTA, and independent European nations
+- **Inclusive Approach:** Including emerging markets (Kosovo, Turkey) and traditional hubs
+- **Strategic Exclusions:** Russia and Vatican City excluded (geopolitical and size considerations)
+- Founder residency requirement in eligible European territory
+
+### Startup Stage & Funding Criteria:
+- **Early-Stage Focus:** Maximum €300,000 total funding received
+- **Diverse Stages Welcome:** From solo idea-stage founders to small teams with traction
+- **Innovation Over Scale:** Prototype/MVP acceptable, emphasis on potential over current metrics
+- **Accessibility:** Low barriers to entry for grassroots innovation
 
 ### Values & Principles:
-- **Innovation Excellence:** Celebrating European entrepreneurial spirit
-- **Fair Competition:** Transparent, merit-based evaluation
-- **Community Building:** Connecting European startup ecosystem
+- **Continental Unity:** Every European country represented in the competition
+- **Innovation Democracy:** Equal opportunity regardless of country size or economic status
+- **Fair Competition:** Transparent, merit-based evaluation with community engagement
 - **Cultural Heritage:** Honoring European legacy while driving future innovation
+- **Global Vision:** Building foundation for worldwide entrepreneurship celebration
 
 ---
 
@@ -178,13 +211,24 @@ The event culminates in the **Hominio Summit No1 Grand Finale** on **March 21, 2
 
 ## 🚀 Future Vision
 
-The Hominio Summit No1 is designed as the inaugural event of an annual tradition, establishing a new standard for startup competitions in Europe. Success of this first edition will pave the way for:
+The Hominio Summit No1 is designed as the inaugural event of a revolutionary tournament series, establishing a new standard for startup competitions globally.
 
-- Annual Hominio Summit events
-- Expansion to other global regions
-- Alumni network development
-- Partnership with major European innovation hubs
-- Integration with European startup funding ecosystem
+### Hominio Summit No2: Earth-Scale Tournament
+Following the success of the European edition, **Hominio Summit No2** will expand to become the world's first global startup tournament:
+
+- **Continental Qualifiers:** Europe, North America, Asia-Pacific, Africa, South America, Middle East
+- **Global Finale:** Representatives from each continent compete for ultimate recognition
+- **Expanded Prize Pool:** Multi-million euro funding across multiple winners
+- **Cultural Exchange:** Celebrating global entrepreneurship and innovation diversity
+
+### Long-term Roadmap:
+- **Year 1 (2026):** Hominio Summit No1 - European Championship
+- **Year 2 (2027):** Hominio Summit No2 - Global Championship  
+- **Year 3+:** Annual global tournaments with regional championships
+- Alumni network development spanning continents
+- Partnership with major global innovation hubs
+- Integration with international startup funding ecosystem
+- Establishment of Hominio Foundation for entrepreneurship education
 
 ---
 
