@@ -15,10 +15,9 @@ The event culminates in the **Hominio Summit No1 Grand Finale** on **March 21, 2
 - **48 startups** enter the main tournament (after Qualification Round 2)
 - **32 startups** advance from Round 1 (3-way battles)
 - **16 startups** proceed through Round 2 (1v1 knockout begins)
-- **8 startups** reach Quarter-Finals (live event in Limassol)
-- **4 startups** compete in Semi-Finals (live presentations)
-- **2 startups** face off in Finals 
-- **1 winner** receives the 1 million euro seed funding (Grand Finale: March 21, 2026)
+- **8 startups** qualify for the Grand Finale live event in Limassol
+- **1 winner** emerges from live elimination event (March 21, 2026)
+- **1 Million Euro** seed funding awarded to champion
 
 ---
 
@@ -160,40 +159,32 @@ Albania, Andorra, Armenia, Azerbaijan, Belarus, Bosnia and Herzegovina, Georgia,
 
 ---
 
-### 🥇 Round 4: Semi-Finals (8 → 4)
-**Timeline:** March 2026 (1 week)  
-**Objective:** Live competition in Ancient Curium Theatre
+### 🏛️ The Grand Finale Live Event: Elite 8 Battle (8 → 1)
+**Timeline:** March 21, 2026 (One Evening Event)  
+**Objective:** Crown the Hominio Summit No1 Champion through live elimination
 
-#### Live Event Format:
+#### Live Stage Format:
 - **Venue:** Ancient Curium Theatre, Limassol, Cyprus
-- **Format:** Live presentations and community voting
-- **Audience:** Ticket holders and live streaming viewers
-- **Duration:** 1 week (live event + online voting)
-- **Advancement:** Final 4 compete for championship
+- **Duration:** Single evening event (March 21, 2026)
+- **Format:** All 8 startups compete simultaneously on stage
+- **Elimination Style:** Multiple rounds with community voting each round
 
----
+#### Competition Structure:
+- **Round 1 (8 → 7):** All 8 present, community votes, lowest eliminated
+- **Round 2 (7 → 6):** Remaining 7 present, community votes, lowest eliminated  
+- **Round 3 (6 → 5):** Remaining 6 present, community votes, lowest eliminated
+- **Round 4 (5 → 4):** Remaining 5 present, community votes, lowest eliminated
+- **Round 5 (4 → 3):** Remaining 4 present, community votes, lowest eliminated
+- **Round 6 (3 → 2):** Remaining 3 present, community votes, lowest eliminated
+- **Final Round (2 → 1):** Final 2 present, community votes for champion
 
-### 🏅 Round 5: Finals (4 → 2)
-**Timeline:** March 2026 (1 week)  
-**Objective:** Determine finalists for ultimate showdown
-
-#### Championship Format:
-- **Format:** Live presentations in amphitheater setting
-- **Streaming:** Global live streaming access for package holders
-- **Community:** Final community voting round
-- **Stakes:** Two finalists selected for Grand Finale
-
----
-
-### 👑 Grand Finale: Champion Selection (2 → 1)
-**Timeline:** March 21, 2026  
-**Objective:** Crown the Hominio Summit No1 Champion
-
-#### Ultimate Showdown:
-- **Final Presentations:** Both finalists present live
-- **Judging:** Combined community vote and expert panel
-- **Prize:** 1 Million Euro seed funding awarded
-- **Ceremony:** Victory celebration in historic amphitheater
+#### Live Event Experience:
+- **Audience:** Ticket holders in ancient amphitheater
+- **Global Streaming:** Live broadcast for online community
+- **Real-time Voting:** Community votes after each presentation round
+- **Immediate Results:** Eliminations announced live on stage
+- **Victory Ceremony:** 1 Million Euro prize awarded to champion
+- **Historic Setting:** 2,000-year-old Greco-Roman amphitheater backdrop
 
 ---
 
