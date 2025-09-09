@@ -1,30 +1,23 @@
-app = 'jomis7keys'
+# fly.toml app configuration file generated for hominio-no1 on 2025-09-09T14:32:01Z
+#
+# See https://fly.io/docs/reference/configuration/ for information about how to use this file.
+#
+
+app = 'hominio-no1'
 primary_region = 'fra'
 
 [build]
 
-[env]
-NODE_ENV = 'production'
-PORT = '3000'
-
 [http_service]
-internal_port = 3000
-force_https = true
-auto_start_machines = true
-min_machines_running = 1
-
-[[http_service.checks]]
-interval = '30s'
-timeout = '10s'
-grace_period = '5s'
-method = 'GET'
-path = '/'
+  internal_port = 3000
+  force_https = true
+  auto_stop_machines = 'stop'
+  auto_start_machines = true
+  min_machines_running = 0
+  processes = ['app']
 
 [[vm]]
-memory = '1gb'
-cpu_kind = 'shared'
-cpus = 1
-
-[[statics]]
-guest_path = '/app/build/client'
-url_prefix = '/'
+  memory = '1gb'
+  cpu_kind = 'shared'
+  cpus = 1
+  memory_mb = 1024
