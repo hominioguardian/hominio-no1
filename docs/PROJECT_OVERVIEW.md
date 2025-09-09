@@ -179,7 +179,7 @@ Albania, Andorra, Armenia, Azerbaijan, Belarus, Bosnia and Herzegovina, Georgia,
 - **Final Round (2 → 1):** Final 2 present, community votes for champion
 
 #### Live Event Experience:
-- **Audience:** Ticket holders in ancient amphitheater
+- **Live Audience:** 3,500 ticket holders in ancient amphitheater
 - **Global Streaming:** Live broadcast for online community
 - **Real-time Voting:** Community votes after each presentation round
 - **Immediate Results:** Eliminations announced live on stage
@@ -193,13 +193,15 @@ Albania, Andorra, Armenia, Azerbaijan, Belarus, Bosnia and Herzegovina, Georgia,
 ### Location: Ancient Curium Theatre, Limassol, Cyprus
 - **Historical Significance:** 2,000-year-old Greco-Roman amphitheater
 - **Symbolic Value:** Where ancient wisdom meets modern innovation
-- **Capacity:** Intimate setting for exclusive audience
+- **Capacity:** 3,500 live audience members in historic amphitheater
 - **Date:** March 21, 2026
 
 ### Event Structure:
-- **Final 8:** Live presentations in the ancient amphitheater
-- **Final 4:** Live streaming available to package holders
-- **Grand Finale:** Winner announcement and 1 million euro award ceremony
+- **Single Evening Event:** All 8 startups compete with live eliminations
+- **Live Presentations:** Each round featuring remaining startups on stage
+- **Live Audience:** 3,500 spectators witnessing historic competition
+- **Global Streaming:** Worldwide broadcast for online community
+- **Victory Ceremony:** Winner announcement and 1 million euro award presentation
 
 ---
 
