@@ -1,9 +1,10 @@
 <script>
   import VisionStatement from "$lib/components/magazine/VisionStatement.svelte";
-  import PersonalIntro from "$lib/components/magazine/PersonalIntro.svelte";
+  // import PersonalIntro from "$lib/components/magazine/PersonalIntro.svelte";
   import TournamentConcept from "$lib/components/magazine/TournamentConcept.svelte";
-  import DirectAddress from "$lib/components/magazine/DirectAddress.svelte";
-  import CallToAction from "$lib/components/magazine/CallToAction.svelte";
+  import QuestionBridge from "$lib/components/magazine/QuestionBridge.svelte";
+  // import DirectAddress from "$lib/components/magazine/DirectAddress.svelte";
+  // import CallToAction from "$lib/components/magazine/CallToAction.svelte";
 </script>
 
 <svelte:head>
@@ -16,20 +17,21 @@
 
 <!-- Magazine-style storytelling layout -->
 <main
-  class="bg-gradient-to-b from-slate-50 via-white to-yellow-50 min-h-screen"
+  class="min-h-screen"
+  style="background: linear-gradient(to bottom, var(--brand-honeydew), #ffffff, #fefce8);"
 >
   <!-- Vision Statement -->
   <VisionStatement />
 
-  <!-- Personal Introduction -->
-  <PersonalIntro />
-
   <!-- Tournament Concept -->
   <TournamentConcept />
 
+  <!-- Question Bridge -->
+  <QuestionBridge />
+
   <!-- Direct Address -->
-  <DirectAddress />
+  <!-- <DirectAddress /> -->
 
   <!-- Call to Action -->
-  <CallToAction />
+  <!-- <CallToAction /> -->
 </main>

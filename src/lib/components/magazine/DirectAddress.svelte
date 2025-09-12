@@ -1,13 +1,13 @@
 <section
-  class="py-20 px-6 bg-gradient-to-br from-slate-100 via-blue-50 to-slate-100 relative overflow-hidden"
+  class="py-20 px-6 bg-gradient-to-br from-blue-50 via-brand-honeydew to-purple-50 relative overflow-hidden"
 >
   <!-- Dramatic Background -->
   <div class="absolute inset-0">
     <div
-      class="absolute top-1/4 left-0 w-full h-1 bg-gradient-to-r from-transparent via-yellow-400 to-transparent opacity-30"
+      class="absolute top-1/4 left-0 w-full h-1 bg-gradient-to-r from-transparent via-brand-yellow to-transparent opacity-30"
     ></div>
     <div
-      class="absolute bottom-1/4 right-0 w-full h-1 bg-gradient-to-r from-transparent via-blue-900 to-transparent opacity-20"
+      class="absolute bottom-1/4 right-0 w-full h-1 bg-gradient-to-r from-transparent via-brand-oxford to-transparent opacity-20"
     ></div>
   </div>
 
@@ -17,11 +17,13 @@
       <!-- Attention Grabber -->
       <div class="mb-12">
         <p
-          class="text-4xl md:text-6xl font-light text-blue-900 mb-6 leading-tight"
+          class="text-4xl md:text-6xl font-display font-light text-brand-oxford mb-6 leading-tight"
         >
-          Yes, <span class="text-yellow-500 font-bold italic">you</span>...
+          <span class="text-brand-yellow font-black uppercase tracking-wider"
+            >YES, YOU</span
+          >...
         </p>
-        <p class="text-xl md:text-2xl text-slate-700 font-light">
+        <p class="text-xl md:text-2xl text-slate-700 font-body font-light">
           I am talking to you.
         </p>
       </div>
@@ -29,7 +31,7 @@
       <!-- Personal Connection -->
       <div class="prose prose-xl prose-slate mx-auto mb-12">
         <p
-          class="text-lg md:text-xl leading-relaxed text-slate-700 italic border-l-4 border-green-400 pl-8 py-4 bg-white/50 rounded-r-lg"
+          class="text-lg md:text-xl leading-relaxed text-slate-700 font-serif italic border-l-4 border-brand-cordovan pl-8 py-4 bg-white/50 rounded-r-lg"
         >
           You, with that vision in your heart, that you were always meant to
           bring into life.
@@ -38,23 +40,23 @@
 
       <!-- Building Tension -->
       <div class="space-y-8 mb-12">
-        <p class="text-2xl md:text-3xl font-light text-slate-800">
+        <p class="text-2xl md:text-3xl font-body font-light text-slate-800">
           The world awaits you.
         </p>
 
-        <p class="text-xl md:text-2xl text-blue-900 font-medium">
+        <p class="text-xl md:text-2xl text-brand-oxford font-medium">
           I am just calling you out.
         </p>
 
         <!-- Climactic Moment -->
         <div class="relative inline-block">
           <p
-            class="text-5xl md:text-7xl font-bold text-yellow-500 tracking-wider"
+            class="text-6xl md:text-8xl font-black text-brand-yellow tracking-[0.3em] uppercase"
           >
             NOW.
           </p>
           <div
-            class="absolute -bottom-2 left-1/2 transform -translate-x-1/2 w-24 h-1 bg-gradient-to-r from-yellow-400 to-green-400 rounded-full"
+            class="absolute -bottom-2 left-1/2 transform -translate-x-1/2 w-32 h-2 bg-gradient-to-r from-brand-yellow to-brand-cordovan rounded-full"
           ></div>
         </div>
       </div>
@@ -67,7 +69,7 @@
       >
         <p class="text-lg md:text-xl font-medium">
           This is your step 1 into your first
-          <span class="text-yellow-400">1 million in Seed funding</span>
+          <span class="text-brand-yellow">1 million in Seed funding</span>
         </p>
       </div>
     </div>
