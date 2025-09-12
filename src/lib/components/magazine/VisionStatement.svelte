@@ -29,7 +29,7 @@
           class="text-brand-yellow font-black font-body uppercase tracking-normal"
           >SPARKLING EYES</span
         >
-        and
+        <span class="text-2xl md:text-4xl font-display font-light">&</span>
         <span
           class="text-brand-cordovan font-black font-body uppercase tracking-normal"
           >FIRE IN THE BELLY</span

@@ -18,7 +18,7 @@
       <h2
         class="text-2xl md:text-4xl font-black font-body uppercase tracking-normal text-white mb-8"
       >
-        THIS IS HOMINIO EUROPE CUP 26
+        HOMINIO EUROPE CUP
       </h2>
     </div>
 

@@ -2,7 +2,8 @@
   import VisionStatement from "$lib/components/magazine/VisionStatement.svelte";
   // import PersonalIntro from "$lib/components/magazine/PersonalIntro.svelte";
   import TournamentConcept from "$lib/components/magazine/TournamentConcept.svelte";
-  import QuestionBridge from "$lib/components/magazine/QuestionBridge.svelte";
+  import TournamentRoadmap from "$lib/components/magazine/TournamentRoadmap.svelte";
+  import FoundersCall from "$lib/components/magazine/FoundersCall.svelte";
   // import DirectAddress from "$lib/components/magazine/DirectAddress.svelte";
   // import CallToAction from "$lib/components/magazine/CallToAction.svelte";
 </script>
@@ -26,12 +27,6 @@
   <!-- Tournament Concept -->
   <TournamentConcept />
 
-  <!-- Question Bridge -->
-  <QuestionBridge />
-
-  <!-- Direct Address -->
-  <!-- <DirectAddress /> -->
-
-  <!-- Call to Action -->
-  <!-- <CallToAction /> -->
+  <!-- Tournament Roadmap -->
+  <TournamentRoadmap />
 </main>
