@@ -105,11 +105,28 @@ Albania, Andorra, Armenia, Azerbaijan, Belarus, Bosnia and Herzegovina, Georgia,
 - **Contract Management:** Founders handle all sponsorship contracts independently
 
 #### Sponsorship Fee Structure & Revenue Sharing:
-- **Qualification Round 2:** Founders keep 100% of sponsorship revenue
-- **Round 1 (48→32):** Minimum €5,000 sponsorship, 50/50 split (€2,500 to funding pool, €2,500 to founder)
-- **Round 2 (32→16):** Minimum €10,000 sponsorship, 50/50 split (€5,000 to funding pool, €5,000 to founder)
-- **Subsequent Rounds:** Sponsorship minimums continue to increase, 50/50 split maintained
-- **Funding Pool Growth:** Sponsorship contributions increase the total prize fund
+
+**Personal Brand Building While Competing:**
+Founders earn significant revenue through corporate sponsorships at every tournament round, creating a "paid personal brand building" experience where participants get rewarded for nurturing their audience and sharing their startup journey.
+
+**Detailed Sponsorship Progression:**
+
+| Round | Participants | Sponsorship/Round | Cumulative | Per Founder | Fund Split (50%) | Total Pool |
+|-------|-------------|-------------------|------------|-------------|------------------|------------|
+| Qual. Round 2 | 96 | €5,000 | €5,000 | €2,500 | €240,000 | €480,000 |
+| Round 1 (48) | 48 | €5,000 | €10,000 | €5,000 | €360,000 | €720,000 |
+| Round 2 (32) | 32 | €5,000 | €15,000 | €7,500 | €440,000 | €880,000 |
+| Round 3 (16) | 16 | €5,000 | €20,000 | €10,000 | €480,000 | €960,000 |
+| Round 4 (8) | 8 | €10,000 | €30,000 | €15,000 | €520,000 | €1,040,000 |
+| Grand Final (1) | 1 | €20,000 | €50,000 | €25,000 | €530,000 | €1,060,000 |
+
+**Key Benefits for Founders:**
+- **Immediate Revenue:** Start earning from Round 1 (€2,500 minimum)
+- **Progressive Earnings:** Amounts increase significantly each round
+- **Brand Building:** Corporate partnerships enhance personal and startup visibility
+- **Self-Managed:** Founders negotiate their own sponsorship deals and terms
+- **Dual Value:** Earn money while building audience and validating market fit
+- **Final Pool:** Winner gets €1M+ base prize plus €530,000 from sponsorship fund
 
 #### Winner Investment Terms:
 - **Prize:** €1,000,000 seed funding for tournament champion
@@ -148,7 +165,7 @@ Albania, Andorra, Armenia, Azerbaijan, Belarus, Bosnia and Herzegovina, Georgia,
 
 #### Group Formation:
 - **3-startup battle groups** (16 groups total)
-- 48 qualified startups randomly distributed
+- 48 qualified startups randomly distributed 
 - **Country restriction continues:** No two startups from same country in one group
 
 #### Competition Format:

@@ -1,0 +1,578 @@
+[
+    {
+        "id": 1,
+        "name": "EcoFlow Solutions",
+        "sponsor": "Microsoft",
+        "country": "Germany"
+    },
+    {
+        "id": 2,
+        "name": "NeuroLink AI",
+        "sponsor": "Meta",
+        "country": "France"
+    },
+    {
+        "id": 3,
+        "name": "GreenTech Innovations",
+        "sponsor": "Tesla",
+        "country": "Netherlands"
+    },
+    {
+        "id": 4,
+        "name": "QuantumLeap",
+        "sponsor": "IBM",
+        "country": "Switzerland"
+    },
+    {
+        "id": 5,
+        "name": "HealthSync",
+        "sponsor": "Google",
+        "country": "Sweden"
+    },
+    {
+        "id": 6,
+        "name": "SmartCity Solutions",
+        "sponsor": "Samsung",
+        "country": "Denmark"
+    },
+    {
+        "id": 7,
+        "name": "CryptoSecure",
+        "sponsor": "Meta",
+        "country": "Estonia"
+    },
+    {
+        "id": 8,
+        "name": "AgriTech Pro",
+        "sponsor": "Bayer",
+        "country": "Poland"
+    },
+    {
+        "id": 9,
+        "name": "RoboAssist",
+        "sponsor": "Amazon",
+        "country": "Czech Republic"
+    },
+    {
+        "id": 10,
+        "name": "CleanEnergy Hub",
+        "sponsor": "Siemens",
+        "country": "Austria"
+    },
+    {
+        "id": 11,
+        "name": "MedAI Diagnostics",
+        "sponsor": "Apple",
+        "country": "Finland"
+    },
+    {
+        "id": 12,
+        "name": "EduTech Revolution",
+        "sponsor": "Microsoft",
+        "country": "Norway"
+    },
+    {
+        "id": 13,
+        "name": "FoodTech Labs",
+        "sponsor": "Unilever",
+        "country": "Belgium"
+    },
+    {
+        "id": 14,
+        "name": "SpaceVenture",
+        "sponsor": "",
+        "country": "Italy"
+    },
+    {
+        "id": 15,
+        "name": "Ocean Cleanup Tech",
+        "sponsor": "Red Bull",
+        "country": "Portugal"
+    },
+    {
+        "id": 16,
+        "name": "AI Recruitment",
+        "sponsor": "",
+        "country": "Spain"
+    },
+    {
+        "id": 17,
+        "name": "Blockchain Finance",
+        "sponsor": "PayPal",
+        "country": "Ireland"
+    },
+    {
+        "id": 18,
+        "name": "VR Therapy",
+        "sponsor": "",
+        "country": "United Kingdom"
+    },
+    {
+        "id": 19,
+        "name": "Smart Logistics",
+        "sponsor": "DHL",
+        "country": "Luxembourg"
+    },
+    {
+        "id": 20,
+        "name": "Renewable Grid",
+        "sponsor": "",
+        "country": "Slovenia"
+    },
+    {
+        "id": 21,
+        "name": "Biotech Solutions",
+        "sponsor": "Pfizer",
+        "country": "Croatia"
+    },
+    {
+        "id": 22,
+        "name": "Quantum Computing",
+        "sponsor": "",
+        "country": "Bulgaria"
+    },
+    {
+        "id": 23,
+        "name": "Solar Innovations",
+        "sponsor": "Siemens",
+        "country": "Romania"
+    },
+    {
+        "id": 24,
+        "name": "Digital Health",
+        "sponsor": "",
+        "country": "Greece"
+    },
+    {
+        "id": 25,
+        "name": "Smart Manufacturing",
+        "sponsor": "BMW",
+        "country": "Slovakia"
+    },
+    {
+        "id": 26,
+        "name": "Fintech Pro",
+        "sponsor": "",
+        "country": "Lithuania"
+    },
+    {
+        "id": 27,
+        "name": "AR Commerce",
+        "sponsor": "Shopify",
+        "country": "Latvia"
+    },
+    {
+        "id": 28,
+        "name": "Climate Tech",
+        "sponsor": "",
+        "country": "Malta"
+    },
+    {
+        "id": 29,
+        "name": "Mobility Solutions",
+        "sponsor": "Volkswagen",
+        "country": "Cyprus"
+    },
+    {
+        "id": 30,
+        "name": "Data Analytics Pro",
+        "sponsor": "",
+        "country": "Hungary"
+    },
+    {
+        "id": 31,
+        "name": "Waste Management AI",
+        "sponsor": "Coca-Cola",
+        "country": "Iceland"
+    },
+    {
+        "id": 32,
+        "name": "Smart Farming",
+        "sponsor": "",
+        "country": "Liechtenstein"
+    },
+    {
+        "id": 33,
+        "name": "Precision Medicine",
+        "sponsor": "Johnson & Johnson",
+        "country": "Albania"
+    },
+    {
+        "id": 34,
+        "name": "Energy Storage",
+        "sponsor": "",
+        "country": "Montenegro"
+    },
+    {
+        "id": 35,
+        "name": "Digital Banking",
+        "sponsor": "ING",
+        "country": "Serbia"
+    },
+    {
+        "id": 36,
+        "name": "Robotics Healthcare",
+        "sponsor": "",
+        "country": "North Macedonia"
+    },
+    {
+        "id": 37,
+        "name": "Clean Water Tech",
+        "sponsor": "Nestlé",
+        "country": "Bosnia and Herzegovina"
+    },
+    {
+        "id": 38,
+        "name": "AI Translation",
+        "sponsor": "",
+        "country": "Moldova"
+    },
+    {
+        "id": 39,
+        "name": "Smart Grid Tech",
+        "sponsor": "Schneider Electric",
+        "country": "Ukraine"
+    },
+    {
+        "id": 40,
+        "name": "Bioengineering",
+        "sponsor": "",
+        "country": "Belarus"
+    },
+    {
+        "id": 41,
+        "name": "Virtual Events",
+        "sponsor": "Zoom",
+        "country": "Georgia"
+    },
+    {
+        "id": 42,
+        "name": "Sustainable Fashion",
+        "sponsor": "",
+        "country": "Armenia"
+    },
+    {
+        "id": 43,
+        "name": "Drone Delivery",
+        "sponsor": "Amazon",
+        "country": "Azerbaijan"
+    },
+    {
+        "id": 44,
+        "name": "Mental Health AI",
+        "sponsor": "",
+        "country": "Turkey"
+    },
+    {
+        "id": 45,
+        "name": "Smart Home Hub",
+        "sponsor": "Philips",
+        "country": "Kosovo"
+    },
+    {
+        "id": 46,
+        "name": "Carbon Capture",
+        "sponsor": "",
+        "country": "Monaco"
+    },
+    {
+        "id": 47,
+        "name": "Cybersecurity Pro",
+        "sponsor": "Microsoft",
+        "country": "Andorra"
+    },
+    {
+        "id": 48,
+        "name": "Digital Twins",
+        "sponsor": "",
+        "country": "San Marino"
+    },
+    {
+        "id": 49,
+        "name": "Precision Agriculture",
+        "sponsor": "John Deere",
+        "country": "Germany"
+    },
+    {
+        "id": 50,
+        "name": "Quantum Sensors",
+        "sponsor": "",
+        "country": "France"
+    },
+    {
+        "id": 51,
+        "name": "Smart Textiles",
+        "sponsor": "Adidas",
+        "country": "Netherlands"
+    },
+    {
+        "id": 52,
+        "name": "AI Tutoring",
+        "sponsor": "",
+        "country": "Switzerland"
+    },
+    {
+        "id": 53,
+        "name": "Ocean Energy",
+        "sponsor": "Shell",
+        "country": "Sweden"
+    },
+    {
+        "id": 54,
+        "name": "Space Mining",
+        "sponsor": "",
+        "country": "Denmark"
+    },
+    {
+        "id": 55,
+        "name": "Bioprinting",
+        "sponsor": "3M",
+        "country": "Estonia"
+    },
+    {
+        "id": 56,
+        "name": "Smart Cities AI",
+        "sponsor": "",
+        "country": "Poland"
+    },
+    {
+        "id": 57,
+        "name": "Gene Therapy",
+        "sponsor": "Roche",
+        "country": "Czech Republic"
+    },
+    {
+        "id": 58,
+        "name": "Hydrogen Fuel",
+        "sponsor": "",
+        "country": "Austria"
+    },
+    {
+        "id": 59,
+        "name": "Nano Materials",
+        "sponsor": "BASF",
+        "country": "Finland"
+    },
+    {
+        "id": 60,
+        "name": "Digital Identity",
+        "sponsor": "",
+        "country": "Norway"
+    },
+    {
+        "id": 61,
+        "name": "Smart Packaging",
+        "sponsor": "Unilever",
+        "country": "Belgium"
+    },
+    {
+        "id": 62,
+        "name": "Voice AI",
+        "sponsor": "",
+        "country": "Italy"
+    },
+    {
+        "id": 63,
+        "name": "Marine Biology Tech",
+        "sponsor": "National Geographic",
+        "country": "Portugal"
+    },
+    {
+        "id": 64,
+        "name": "AR Education",
+        "sponsor": "",
+        "country": "Spain"
+    },
+    {
+        "id": 65,
+        "name": "Synthetic Biology",
+        "sponsor": "Genentech",
+        "country": "Ireland"
+    },
+    {
+        "id": 66,
+        "name": "Smart Mirrors",
+        "sponsor": "",
+        "country": "United Kingdom"
+    },
+    {
+        "id": 67,
+        "name": "Brain Computer Interface",
+        "sponsor": "Neuralink",
+        "country": "Luxembourg"
+    },
+    {
+        "id": 68,
+        "name": "Vertical Farming",
+        "sponsor": "",
+        "country": "Slovenia"
+    },
+    {
+        "id": 69,
+        "name": "Quantum Internet",
+        "sponsor": "IBM",
+        "country": "Croatia"
+    },
+    {
+        "id": 70,
+        "name": "Smart Prosthetics",
+        "sponsor": "",
+        "country": "Bulgaria"
+    },
+    {
+        "id": 71,
+        "name": "Zero Waste Tech",
+        "sponsor": "TerraCycle",
+        "country": "Romania"
+    },
+    {
+        "id": 72,
+        "name": "Digital Pharmacy",
+        "sponsor": "",
+        "country": "Greece"
+    },
+    {
+        "id": 73,
+        "name": "AI Music",
+        "sponsor": "Spotify",
+        "country": "Slovakia"
+    },
+    {
+        "id": 74,
+        "name": "Smart Glass",
+        "sponsor": "",
+        "country": "Lithuania"
+    },
+    {
+        "id": 75,
+        "name": "Molecular Computing",
+        "sponsor": "Intel",
+        "country": "Latvia"
+    },
+    {
+        "id": 76,
+        "name": "Digital Art",
+        "sponsor": "",
+        "country": "Malta"
+    },
+    {
+        "id": 77,
+        "name": "Smart Contact Lenses",
+        "sponsor": "Google",
+        "country": "Cyprus"
+    },
+    {
+        "id": 78,
+        "name": "Bio Plastics",
+        "sponsor": "",
+        "country": "Hungary"
+    },
+    {
+        "id": 79,
+        "name": "Quantum Cryptography",
+        "sponsor": "Microsoft",
+        "country": "Iceland"
+    },
+    {
+        "id": 80,
+        "name": "Smart Shoes",
+        "sponsor": "",
+        "country": "Liechtenstein"
+    },
+    {
+        "id": 81,
+        "name": "Lab-grown Food",
+        "sponsor": "Beyond Meat",
+        "country": "Albania"
+    },
+    {
+        "id": 82,
+        "name": "AI Composer",
+        "sponsor": "",
+        "country": "Montenegro"
+    },
+    {
+        "id": 83,
+        "name": "Smart Roads",
+        "sponsor": "Volvo",
+        "country": "Serbia"
+    },
+    {
+        "id": 84,
+        "name": "Digital Therapeutics",
+        "sponsor": "",
+        "country": "North Macedonia"
+    },
+    {
+        "id": 85,
+        "name": "Fusion Energy",
+        "sponsor": "General Electric",
+        "country": "Bosnia and Herzegovina"
+    },
+    {
+        "id": 86,
+        "name": "Smart Dust",
+        "sponsor": "",
+        "country": "Moldova"
+    },
+    {
+        "id": 87,
+        "name": "Bio Computers",
+        "sponsor": "AMD",
+        "country": "Ukraine"
+    },
+    {
+        "id": 88,
+        "name": "Quantum Biology",
+        "sponsor": "",
+        "country": "Belarus"
+    },
+    {
+        "id": 89,
+        "name": "Smart Pills",
+        "sponsor": "Novartis",
+        "country": "Georgia"
+    },
+    {
+        "id": 90,
+        "name": "Digital Consciousness",
+        "sponsor": "",
+        "country": "Armenia"
+    },
+    {
+        "id": 91,
+        "name": "Molecular Assembly",
+        "sponsor": "3D Systems",
+        "country": "Azerbaijan"
+    },
+    {
+        "id": 92,
+        "name": "Smart Blood",
+        "sponsor": "",
+        "country": "Turkey"
+    },
+    {
+        "id": 93,
+        "name": "AI Creativity",
+        "sponsor": "Adobe",
+        "country": "Kosovo"
+    },
+    {
+        "id": 94,
+        "name": "Quantum Life",
+        "sponsor": "",
+        "country": "Monaco"
+    },
+    {
+        "id": 95,
+        "name": "Digital Evolution",
+        "sponsor": "DeepMind",
+        "country": "Andorra"
+    },
+    {
+        "id": 96,
+        "name": "Bio Intelligence",
+        "sponsor": "",
+        "country": "San Marino"
+    }
+]
