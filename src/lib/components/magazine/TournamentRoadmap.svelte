@@ -415,8 +415,8 @@
                 class="text-lg md:text-xl font-black font-body uppercase leading-tight"
                 style="color: var(--brand-yellow);"
               >
-                LIVE-TICKER<br />
-                TICKETS
+                MOST LIVE-TICKER<br />
+                TICKET VOTES
               </div>
             </div>
           </div>
@@ -447,7 +447,7 @@
                 class="text-lg md:text-xl font-black font-body uppercase leading-tight"
                 style="color: var(--brand-oxford);"
               >
-                20 MIN<br />
+                30 MIN<br />
                 ELIMINATION<br />
                 ROUNDS
               </div>
@@ -471,6 +471,10 @@
                 <div>
                   <strong>Platform:</strong> Live Event + Online Stream in Curium
                   Ancient Theatre in Limassol, Cyprus
+                </div>
+                <div>
+                  <strong>Format:</strong> every 30 minutes, 1 participant voted
+                  out until 1 winner remains
                 </div>
               </div>
               <div class="text-sm text-slate-600 mt-2">
