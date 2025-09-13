@@ -1,5 +1,5 @@
 <section
-  class="px-6 relative overflow-hidden flex items-center justify-center"
+  class="flex overflow-hidden relative justify-center items-center px-6"
   style="background: #ffffff; min-height: 80vh; padding-top: 10vh; padding-bottom: 10vh;"
 >
   <!-- Magazine-style Geometric Shapes -->
@@ -11,7 +11,7 @@
     ></div>
     <!-- Triangle shape - left -->
     <div
-      class="absolute top-1/4 -left-24 w-48 h-48 opacity-10 transform rotate-45"
+      class="absolute -left-24 top-1/4 w-48 h-48 opacity-10 transform rotate-45"
       style="background-color: var(--brand-cordovan);"
     ></div>
     <!-- Oval shape - bottom -->
@@ -25,46 +25,46 @@
       style="background-color: var(--brand-honeydew);"
     ></div>
     <div
-      class="absolute bottom-1/3 right-1/4 w-16 h-16 rounded-full opacity-10"
+      class="absolute right-1/4 bottom-1/3 w-16 h-16 rounded-full opacity-10"
       style="background-color: var(--brand-yellow);"
     ></div>
   </div>
 
-  <div class="max-w-5xl mx-auto relative z-10">
+  <div class="relative z-10 mx-auto max-w-5xl">
     <!-- Brand Identity Statement -->
-    <div class="prose prose-xl prose-slate mx-auto text-center">
+    <div class="mx-auto text-center prose prose-xl prose-slate">
       <p
-        class="text-xl md:text-3xl font-display font-light leading-relaxed text-slate-700 mb-6"
+        class="mb-6 text-xl font-light leading-relaxed md:text-3xl font-display text-slate-700"
       >
-        this is how it feels like to become
+        ... this is how it feels like to become
         <span
-          class="font-black font-body uppercase tracking-normal"
+          class="font-black tracking-normal uppercase font-body"
           style="color: var(--brand-cordovan);">Hominio</span
         ><br />
         - a new breed of
         <span
-          class="font-black font-body uppercase tracking-normal"
+          class="font-black tracking-normal uppercase font-body"
           style="color: var(--brand-teal);">entrepreneurs</span
         >
         -<br />
         where
         <span
-          class="font-black font-body uppercase tracking-normal"
+          class="font-black tracking-normal uppercase font-body"
           style="color: var(--brand-cordovan);">purpose</span
         >,
         <span
-          class="font-black font-body uppercase tracking-normal"
+          class="font-black tracking-normal uppercase font-body"
           style="color: var(--brand-teal);">planet</span
         >
         &
         <span
-          class="font-black font-body uppercase tracking-normal"
+          class="font-black tracking-normal uppercase font-body"
           style="color: var(--brand-yellow);">profit</span
         >
         create an unstoppable movement<br />
         into a
         <span
-          class="font-black font-body uppercase tracking-normal"
+          class="font-black tracking-normal uppercase font-body"
           style="color: var(--brand-yellow);">brilliant future</span
         >.
       </p>

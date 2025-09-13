@@ -1,33 +1,40 @@
 <section
-  class="relative flex h-screen items-center justify-center overflow-hidden"
+  class="flex overflow-hidden relative justify-center items-start h-[90vh]"
 >
   <!-- Fullscreen Background Image -->
   <div class="absolute inset-0">
     <img
-      src="/curium.jpg"
+      src="/eyes.jpg"
       alt="Ancient amphitheater in Cyprus"
-      class="h-full w-full object-cover"
+      class="object-cover w-full h-full"
     />
-    <!-- Dark overlay for text readability -->
-    <div class="absolute inset-0 bg-black/60"></div>
+    <!-- Gradient overlay for text readability -->
+    <div
+      class="absolute inset-0 bg-gradient-to-b from-transparent to-black/80"
+    ></div>
   </div>
 
   <!-- Content -->
-  <div class="relative z-10 text-center max-w-5xl px-6">
-    <p class="text-lg md:text-xl text-gray-300 mb-4 drop-shadow-md">
-      Funding your startup vision alone is hard
-    </p>
-
+  <div class="relative z-10 px-6 max-w-5xl text-center pt-[58vh] pb-8">
     <h1
-      class="text-5xl md:text-7xl font-light text-white mb-8 drop-shadow-lg tracking-tight"
+      class="text-3xl font-light leading-tight text-white drop-shadow-lg md:text-5xl lg:text-6xl font-display"
     >
-      Let's make it fun! Shall we?
+      Imagine waking up everyday with<br />
+      <span
+        class="px-3 py-1 font-black tracking-normal uppercase rounded-xl drop-shadow-md font-body bg-amber-50/40"
+        style="color: var(--brand-yellow);">SPARKLING EYES</span
+      >
+      <span
+        class="text-4xl font-black drop-shadow-md md:text-6xl lg:text-7xl font-body"
+        style="color: var(--brand-teal);">&</span
+      >
+      <span
+        class="px-3 py-1 font-black tracking-normal uppercase rounded-xl drop-shadow-md font-body bg-amber-50/40"
+        style="color: var(--brand-cordovan);">FIRE IN THE BELLY</span
+      ><br />
+      <span class="block mt-3"
+        >where purposeful work feels like pure joy...</span
+      >
     </h1>
-
-    <div class="border-t border-white/20 pt-6">
-      <p class="text-xl md:text-2xl text-white font-medium drop-shadow-md">
-        Compete for 1 million in seed-funding, while getting payed doing so
-      </p>
-    </div>
   </div>
 </section>

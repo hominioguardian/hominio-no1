@@ -1,12 +1,10 @@
 <script>
-  import VisionStatement from "$lib/components/magazine/VisionStatement.svelte";
-  // import PersonalIntro from "$lib/components/magazine/PersonalIntro.svelte";
+  import HeroSection from "$lib/components/landing/HeroSection.svelte";
   import BrandIdentity from "$lib/components/magazine/BrandIdentity.svelte";
   import TournamentConcept from "$lib/components/magazine/TournamentConcept.svelte";
   import TournamentRoadmap from "$lib/components/magazine/TournamentRoadmap.svelte";
-  import FoundersCall from "$lib/components/magazine/FoundersCall.svelte";
-  // import DirectAddress from "$lib/components/magazine/DirectAddress.svelte";
-  // import CallToAction from "$lib/components/magazine/CallToAction.svelte";
+  import GoldenOffer from "$lib/components/offers/GoldenOffer.svelte";
+  import TournamentMilestones from "$lib/components/magazine/TournamentMilestones.svelte";
 </script>
 
 <svelte:head>
@@ -22,8 +20,8 @@
   class="min-h-screen"
   style="background: linear-gradient(to bottom, var(--brand-honeydew), #ffffff, #fefce8);"
 >
-  <!-- Vision Statement -->
-  <VisionStatement />
+  <!-- Hero Section -->
+  <HeroSection />
 
   <!-- Brand Identity -->
   <BrandIdentity />
@@ -33,4 +31,10 @@
 
   <!-- Tournament Roadmap -->
   <TournamentRoadmap />
+
+  <!-- Golden Offer -->
+  <GoldenOffer />
+
+  <!-- Tournament Milestones -->
+  <TournamentMilestones />
 </main>

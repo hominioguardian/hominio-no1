@@ -1,6 +1,7 @@
 <script>
   import "../app.css";
   import Navbar from "$lib/components/Navbar.svelte";
+  import BottomNotch from "$lib/components/BottomNotch.svelte";
 </script>
 
 <div class="min-h-screen bg-white">
@@ -10,4 +11,6 @@
   <main>
     <slot />
   </main>
+
+  <BottomNotch />
 </div>
