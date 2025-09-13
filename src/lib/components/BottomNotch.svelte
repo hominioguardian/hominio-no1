@@ -25,14 +25,9 @@
 <!-- Bottom Notch -->
 <div class="fixed bottom-0 left-1/2 transform -translate-x-1/2 z-50">
   <div class="bottom-notch">
-    <button on:click={openModal} class="flex items-center space-x-2">
-      <div class="submit-text font-black tracking-normal text-white uppercase">
-        SUBMIT VIDEO
-      </div>
-      <div class="submit-icon">
-        <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor">
-          <path d="M19 13h-6v6h-2v-6H5v-2h6V5h2v6h6v2z" />
-        </svg>
+    <button on:click={openModal} class="apply-button">
+      <div class="submit-text font-black tracking-normal uppercase">
+        Apply Now
       </div>
     </button>
   </div>
@@ -154,34 +149,47 @@
 
 <style>
   .bottom-notch {
-    background: rgba(19, 11, 52, 0.9);
+    background: linear-gradient(135deg, #e9ca5a, #f5e07a);
     backdrop-filter: blur(10px);
     -webkit-backdrop-filter: blur(10px);
-    border-radius: 20px 20px 0 0;
-    padding: 12px 24px 8px 24px;
-    border: 1px solid rgba(255, 255, 255, 0.1);
+    border-radius: 24px 24px 0 0;
+    padding: 16px 32px 12px 32px;
+    border: 1px solid rgba(255, 255, 255, 0.2);
     border-bottom: none;
-    box-shadow: 0 -4px 20px rgba(0, 0, 0, 0.3);
+    box-shadow: 0 -6px 30px rgba(233, 202, 90, 0.4);
     cursor: pointer;
-    transition: all 0.2s ease;
+    transition: all 0.3s ease;
   }
 
   .bottom-notch:hover {
-    background: rgba(19, 11, 52, 1);
-    transform: translateY(-2px);
+    background: linear-gradient(135deg, #f5e07a, #e9ca5a);
+    transform: translateY(-4px);
+    box-shadow: 0 -8px 40px rgba(233, 202, 90, 0.6);
+  }
+
+  .apply-button {
+    animation: pulse-soft 3s ease-in-out infinite;
   }
 
   .submit-text {
-    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.8);
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.1);
     font-family: "Inter", "ui-sans-serif", "system-ui", sans-serif;
-    font-size: 0.9rem;
+    font-size: 1.1rem;
     font-weight: 900;
     letter-spacing: 0.025em;
+    color: #251e64;
   }
 
-  .submit-icon {
-    color: rgba(233, 202, 90, 1);
-    filter: drop-shadow(1px 1px 2px rgba(0, 0, 0, 0.5));
+  @keyframes pulse-soft {
+    0%,
+    100% {
+      transform: scale(1);
+      box-shadow: 0 -6px 30px rgba(233, 202, 90, 0.4);
+    }
+    50% {
+      transform: scale(1.02);
+      box-shadow: 0 -8px 35px rgba(233, 202, 90, 0.6);
+    }
   }
 
   .modal-overlay {

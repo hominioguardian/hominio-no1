@@ -25,6 +25,37 @@
       </a>
     </div>
   </div>
+
+  <!-- Right Edge: Progress Notches Grid -->
+  <div class="absolute top-0 right-0">
+    <div class="notches-grid">
+      <!-- Fund Progress -->
+      <div class="fund-notch">
+        <div class="flex flex-col items-center text-center">
+          <div class="text-xs font-medium opacity-80 text-white">FUND</div>
+          <div class="text-lg font-black text-white">1€</div>
+        </div>
+      </div>
+
+      <!-- Day Counter -->
+      <div class="day-notch">
+        <div class="flex flex-col items-center text-center">
+          <div class="text-xs font-medium opacity-80 text-white">DAY</div>
+          <div class="text-lg font-black text-white">1</div>
+        </div>
+      </div>
+
+      <!-- Cup Phase -->
+      <div class="phase-notch">
+        <div class="flex flex-col items-center text-center">
+          <div class="text-xs font-medium opacity-80 text-white">CUP PHASE</div>
+          <div class="text-sm font-black text-white uppercase tracking-tight">
+            QUALI 1
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
 </nav>
 
 <style>
@@ -61,5 +92,51 @@
     font-size: 1rem;
     font-weight: 900;
     letter-spacing: 0.025em;
+  }
+
+  .notches-grid {
+    display: grid;
+    grid-template-rows: auto auto auto;
+    gap: 8px;
+    align-items: start;
+  }
+
+  .fund-notch {
+    background: rgba(19, 11, 52, 0.8);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    border-radius: 16px 0 0 16px;
+    padding: 6px 10px 8px 10px;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    border-top: none;
+    border-right: none;
+    box-shadow: 0 3px 15px rgba(0, 0, 0, 0.25);
+    min-width: 60px;
+  }
+
+  .day-notch {
+    background: rgba(19, 11, 52, 0.8);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    border-radius: 12px 0 0 12px;
+    padding: 4px 8px 6px 8px;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    border-top: none;
+    border-right: none;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+    min-width: 50px;
+  }
+
+  .phase-notch {
+    background: rgba(19, 11, 52, 0.8);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    border-radius: 12px 0 0 12px;
+    padding: 4px 8px 6px 8px;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    border-top: none;
+    border-right: none;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+    min-width: 70px;
   }
 </style>
