@@ -1,6 +1,6 @@
 <section
   class="py-16 px-6 relative"
-  style="background: linear-gradient(to bottom, var(--brand-honeydew), #ffffff, #f8fafc);"
+  style="background: linear-gradient(to bottom, var(--brand-honeydew), #ffffff, #f0fdfa);"
 >
   <div class="max-w-4xl mx-auto relative z-10">
     <!-- Section Header -->
@@ -71,7 +71,7 @@
               the world awaits your
               <span
                 class="font-black font-body uppercase tracking-normal text-2xl md:text-3xl lg:text-4xl"
-                style="color: var(--brand-yellow);">VISION</span
+                style="color: var(--brand-teal);">VISION</span
               >
             </p>
           </div>
@@ -92,7 +92,7 @@
               share your story and
               <span
                 class="font-black font-body uppercase tracking-normal"
-                style="color: var(--brand-cordovan);">TAKE US ALONG</span
+                style="color: var(--brand-teal);">TAKE US ALONG</span
               >
               the ride
             </p>
@@ -143,15 +143,15 @@
         ></div>
         <div class="w-1/2 pl-8 text-left">
           <div
-            class="bg-gradient-to-br from-yellow-50 to-yellow-100 p-4 rounded-lg shadow-md border-l-4 max-w-xs"
-            style="border-color: var(--brand-yellow);"
+            class="p-4 rounded-lg shadow-md border-l-4 max-w-xs"
+            style="background: linear-gradient(to bottom right, var(--brand-yellow), #F5E07A); border-color: var(--brand-yellow);"
           >
             <div class="text-center">
               <!-- Participants Count -->
               <div class="mb-3">
                 <div
                   class="text-3xl md:text-4xl font-black font-body"
-                  style="color: var(--brand-yellow);"
+                  style="color: #B8941F;"
                 >
                   ∞
                 </div>
@@ -161,7 +161,7 @@
               </div>
               <div
                 class="text-lg md:text-xl font-black font-body uppercase leading-tight"
-                style="color: var(--brand-yellow);"
+                style="color: #B8941F;"
               >
                 1 INSTA VIDEO,<br />
                 <span class="text-xl md:text-3xl">100 LIKES</span>
@@ -175,15 +175,15 @@
       <div class="relative flex items-center mb-12">
         <div class="w-1/2 pr-8 text-right">
           <div
-            class="bg-gradient-to-br from-purple-50 to-purple-100 p-4 rounded-lg shadow-md border-r-4 max-w-xs ml-auto"
-            style="border-color: var(--brand-cordovan);"
+            class="p-4 rounded-lg shadow-md border-r-4 max-w-xs ml-auto"
+            style="background: linear-gradient(to bottom right, var(--brand-teal), #4AC5CB); border-color: var(--brand-teal);"
           >
             <div class="text-center">
               <!-- Participants Count -->
               <div class="mb-3">
                 <div
                   class="text-3xl md:text-4xl font-black font-body"
-                  style="color: var(--brand-cordovan);"
+                  style="color: #155B60;"
                 >
                   96
                 </div>
@@ -193,7 +193,7 @@
               </div>
               <div
                 class="text-lg md:text-xl font-black font-body uppercase leading-tight"
-                style="color: var(--brand-cordovan);"
+                style="color: #155B60;"
               >
                 MOST YOUTUBE<br />
                 VOTES PROCEED
@@ -203,7 +203,7 @@
         </div>
         <div
           class="absolute left-1/2 transform -translate-x-1/2 w-4 h-4 rounded-full"
-          style="background-color: var(--brand-cordovan);"
+          style="background-color: var(--brand-teal);"
         ></div>
         <div class="w-1/2 pl-8 text-left">
           <div
@@ -264,19 +264,19 @@
         </div>
         <div
           class="absolute left-1/2 transform -translate-x-1/2 w-4 h-4 rounded-full"
-          style="background-color: var(--brand-yellow);"
+          style="background-color: var(--brand-cordovan);"
         ></div>
         <div class="w-1/2 pl-8 text-left">
           <div
-            class="bg-gradient-to-br from-yellow-50 to-yellow-100 p-4 rounded-lg shadow-md border-l-4 max-w-xs"
-            style="border-color: var(--brand-yellow);"
+            class="p-4 rounded-lg shadow-md border-l-4 max-w-xs"
+            style="background: linear-gradient(to bottom right, var(--brand-cordovan), #4A39A4); border-color: var(--brand-cordovan);"
           >
             <div class="text-center">
               <!-- Participants Count -->
               <div class="mb-3">
                 <div
                   class="text-3xl md:text-4xl font-black font-body"
-                  style="color: var(--brand-yellow);"
+                  style="color: #160F35;"
                 >
                   48
                 </div>
@@ -286,7 +286,7 @@
               </div>
               <div
                 class="text-lg md:text-xl font-black font-body uppercase leading-tight"
-                style="color: var(--brand-yellow);"
+                style="color: #160F35;"
               >
                 MOST SUMMIT<br />
                 TICKET VOTES
@@ -300,15 +300,15 @@
       <div class="relative flex items-center mb-12">
         <div class="w-1/2 pr-8 text-right">
           <div
-            class="bg-gradient-to-br from-purple-50 to-purple-100 p-4 rounded-lg shadow-md border-r-4 max-w-xs ml-auto"
-            style="border-color: var(--brand-cordovan);"
+            class="p-4 rounded-lg shadow-md border-r-4 max-w-xs ml-auto"
+            style="background: linear-gradient(to bottom right, var(--brand-yellow), #F5E07A); border-color: var(--brand-yellow);"
           >
             <div class="text-center">
               <!-- Participants Count -->
               <div class="mb-3">
                 <div
                   class="text-3xl md:text-4xl font-black font-body"
-                  style="color: var(--brand-cordovan);"
+                  style="color: #B8941F;"
                 >
                   32
                 </div>
@@ -318,7 +318,7 @@
               </div>
               <div
                 class="text-lg md:text-xl font-black font-body uppercase leading-tight"
-                style="color: var(--brand-cordovan);"
+                style="color: #B8941F;"
               >
                 MOST STREAMING<br />
                 TICKET VOTES
@@ -328,7 +328,7 @@
         </div>
         <div
           class="absolute left-1/2 transform -translate-x-1/2 w-4 h-4 rounded-full"
-          style="background-color: var(--brand-cordovan);"
+          style="background-color: var(--brand-yellow);"
         ></div>
         <div class="w-1/2 pl-8 text-left">
           <div
@@ -391,19 +391,19 @@
         </div>
         <div
           class="absolute left-1/2 transform -translate-x-1/2 w-4 h-4 rounded-full"
-          style="background-color: var(--brand-yellow);"
+          style="background-color: var(--brand-teal);"
         ></div>
         <div class="w-1/2 pl-8 text-left">
           <div
-            class="bg-gradient-to-br from-yellow-50 to-yellow-100 p-4 rounded-lg shadow-md border-l-4 max-w-xs"
-            style="border-color: var(--brand-yellow);"
+            class="p-4 rounded-lg shadow-md border-l-4 max-w-xs"
+            style="background: linear-gradient(to bottom right, var(--brand-teal), #4AC5CB); border-color: var(--brand-teal);"
           >
             <div class="text-center">
               <!-- Participants Count -->
               <div class="mb-3">
                 <div
                   class="text-3xl md:text-4xl font-black font-body"
-                  style="color: var(--brand-yellow);"
+                  style="color: #155B60;"
                 >
                   16
                 </div>
@@ -413,7 +413,7 @@
               </div>
               <div
                 class="text-lg md:text-xl font-black font-body uppercase leading-tight"
-                style="color: var(--brand-yellow);"
+                style="color: #155B60;"
               >
                 MOST LIVE-TICKER<br />
                 TICKET VOTES
@@ -427,15 +427,15 @@
       <div class="relative flex items-center">
         <div class="w-1/2 pr-8 text-right">
           <div
-            class="bg-gradient-to-br from-purple-50 to-purple-100 p-4 rounded-lg shadow-md border-r-4 max-w-xs ml-auto"
-            style="border-color: var(--brand-oxford);"
+            class="p-4 rounded-lg shadow-md border-r-4 max-w-xs ml-auto"
+            style="background: linear-gradient(to bottom right, var(--brand-cordovan), #4A39A4); border-color: var(--brand-cordovan);"
           >
             <div class="text-center">
               <!-- Participants Count -->
               <div class="mb-3">
                 <div
                   class="text-3xl md:text-4xl font-black font-body"
-                  style="color: var(--brand-oxford);"
+                  style="color: #160F35;"
                 >
                   8
                 </div>
@@ -445,7 +445,7 @@
               </div>
               <div
                 class="text-lg md:text-xl font-black font-body uppercase leading-tight"
-                style="color: var(--brand-oxford);"
+                style="color: #160F35;"
               >
                 30 MIN<br />
                 ELIMINATION<br />
@@ -456,7 +456,7 @@
         </div>
         <div
           class="absolute left-1/2 transform -translate-x-1/2 w-6 h-6 rounded-full"
-          style="background-color: var(--brand-oxford);"
+          style="background-color: var(--brand-cordovan);"
         ></div>
         <div class="w-1/2 pl-8 text-left">
           <div
@@ -508,7 +508,7 @@
               <div class="mb-4">
                 <div
                   class="text-5xl md:text-6xl font-black font-body"
-                  style="color: var(--brand-oxford);"
+                  style="color: var(--brand-yellow);"
                 >
                   1
                 </div>
@@ -518,7 +518,7 @@
               </div>
               <div
                 class="text-xl md:text-2xl font-black font-body uppercase leading-tight"
-                style="color: var(--brand-oxford);"
+                style="color: var(--brand-yellow);"
               >
                 🏆<br />
                 CHAMPION

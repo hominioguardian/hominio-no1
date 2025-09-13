@@ -11,12 +11,16 @@
     class="absolute bottom-10 right-10 w-80 h-80 rounded-full opacity-15 blur-3xl"
     style="background-color: var(--brand-honeydew);"
   ></div>
+  <div
+    class="absolute top-1/2 right-20 w-48 h-48 rounded-full opacity-12 blur-3xl"
+    style="background-color: var(--brand-teal);"
+  ></div>
 
   <div class="max-w-5xl mx-auto relative z-10">
     <!-- Section Header -->
     <div class="text-center mb-16">
       <h2
-        class="text-2xl md:text-4xl font-black font-body uppercase tracking-normal text-white mb-8"
+        class="text-2xl md:text-4xl font-black font-body uppercase tracking-normal mb-8 text-white"
       >
         HOMINIO EUROPE CUP
       </h2>

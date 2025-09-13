@@ -30,9 +30,10 @@ export default {
       colors: {
         // New Brand Palette
         "brand-honeydew": "#F1FAEE",
-        "brand-yellow": "#ECB858",
-        "brand-cordovan": "#341867",
+        "brand-yellow": "#E9CA5A",
+        "brand-cordovan": "#251E64",
         "brand-oxford": "#130B34",
+        "brand-teal": "#25A1A7",
         // Legacy colors
         "primary-text": "#2C3E50",
         "background-main": "#F8F5F2",

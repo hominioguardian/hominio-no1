@@ -34,11 +34,12 @@ html {
 	--column-width: 42rem;
 	--column-margin-top: 4rem;
 	
-	/* Brand Colors */
-	--brand-honeydew: #F1FAEE;
-	--brand-yellow: #ECB858;
-	--brand-cordovan: #341867;
-	--brand-oxford: #130B34;
+/* Brand Colors */
+--brand-honeydew: #F1FAEE;
+--brand-yellow: #E9CA5A;
+--brand-cordovan: #251E64;
+--brand-oxford: #130B34;
+--brand-teal: #25A1A7;
 	
 	font-family: var(--font-body);
 	color: var(--color-text);
@@ -78,6 +79,10 @@ body {
 	color: var(--brand-oxford) !important;
 }
 
+.text-brand-teal {
+	color: var(--brand-teal) !important;
+}
+
 .bg-brand-honeydew {
 	background-color: var(--brand-honeydew) !important;
 }
@@ -92,6 +97,10 @@ body {
 
 .bg-brand-oxford {
 	background-color: var(--brand-oxford) !important;
+}
+
+.bg-brand-teal {
+	background-color: var(--brand-teal) !important;
 }
 
 h1,

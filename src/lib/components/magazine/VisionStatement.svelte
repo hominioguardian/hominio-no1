@@ -13,6 +13,9 @@
     <div
       class="absolute top-1/2 left-1/2 w-24 h-24 bg-brand-cordovan rounded-full blur-2xl opacity-20"
     ></div>
+    <div
+      class="absolute top-20 right-10 w-28 h-28 bg-brand-teal rounded-full blur-3xl opacity-15"
+    ></div>
   </div>
 
   <div class="max-w-4xl mx-auto relative z-10">
@@ -29,7 +32,10 @@
           class="text-brand-yellow font-black font-body uppercase tracking-normal"
           >SPARKLING EYES</span
         >
-        <span class="text-2xl md:text-4xl font-display font-light">&</span>
+        <span
+          class="text-3xl md:text-5xl font-black font-body"
+          style="color: var(--brand-teal);">&</span
+        >
         <span
           class="text-brand-cordovan font-black font-body uppercase tracking-normal"
           >FIRE IN THE BELLY</span

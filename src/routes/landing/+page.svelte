@@ -1,6 +1,7 @@
 <script>
   import VisionStatement from "$lib/components/magazine/VisionStatement.svelte";
   // import PersonalIntro from "$lib/components/magazine/PersonalIntro.svelte";
+  import BrandIdentity from "$lib/components/magazine/BrandIdentity.svelte";
   import TournamentConcept from "$lib/components/magazine/TournamentConcept.svelte";
   import TournamentRoadmap from "$lib/components/magazine/TournamentRoadmap.svelte";
   import FoundersCall from "$lib/components/magazine/FoundersCall.svelte";
@@ -23,6 +24,9 @@
 >
   <!-- Vision Statement -->
   <VisionStatement />
+
+  <!-- Brand Identity -->
+  <BrandIdentity />
 
   <!-- Tournament Concept -->
   <TournamentConcept />
