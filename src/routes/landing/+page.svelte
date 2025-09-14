@@ -5,6 +5,7 @@
   import TournamentRoadmap from "$lib/components/magazine/TournamentRoadmap.svelte";
   import GoldenOffer from "$lib/components/offers/GoldenOffer.svelte";
   import TournamentMilestones from "$lib/components/magazine/TournamentMilestones.svelte";
+  import FinalCallToAction from "$lib/components/magazine/FinalCallToAction.svelte";
 </script>
 
 <svelte:head>
@@ -37,4 +38,7 @@
 
   <!-- Tournament Milestones -->
   <TournamentMilestones />
+
+  <!-- Final Call to Action -->
+  <FinalCallToAction />
 </main>
