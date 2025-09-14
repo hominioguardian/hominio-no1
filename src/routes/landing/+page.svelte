@@ -6,6 +6,7 @@
   import GoldenOffer from "$lib/components/offers/GoldenOffer.svelte";
   import TournamentMilestones from "$lib/components/magazine/TournamentMilestones.svelte";
   import FinalCallToAction from "$lib/components/magazine/FinalCallToAction.svelte";
+  import FAQ from "$lib/components/magazine/FAQ.svelte";
 </script>
 
 <svelte:head>
@@ -41,4 +42,7 @@
 
   <!-- Final Call to Action -->
   <FinalCallToAction />
+
+  <!-- FAQ Section -->
+  <FAQ />
 </main>

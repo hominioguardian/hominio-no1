@@ -57,8 +57,8 @@
         <div class="vision-quote">
           <div class="quote-styling">
             <p>
-              You, with that vision in your heart, that you were always meant to
-              bring into life.
+              You, with that vision in your heart,<br />
+              that you were always meant to bring into life.
             </p>
           </div>
         </div>
