@@ -8,14 +8,32 @@
       <!-- Magazine-style Title -->
       <div class="mb-8">
         <div class="block">
-          <span
-            class="text-3xl font-black leading-none md:text-5xl lg:text-6xl font-display text-slate-900"
-            >YOUR</span
-          >
-          <span
-            class="ml-4 text-2xl font-black tracking-tight uppercase md:text-3xl font-body"
-            style="color: var(--brand-cordovan);">ROAD</span
-          >
+          <div class="leading-tight">
+            <div class="mb-2">
+              <span
+                class="text-2xl md:text-3xl lg:text-4xl font-display font-light"
+                style="color: var(--brand-cordovan);"
+              >
+                Founders,
+              </span>
+            </div>
+            <div>
+              <span
+                class="text-2xl md:text-3xl lg:text-4xl font-display font-light mr-3"
+                style="color: var(--brand-cordovan);"
+              >
+                this is
+              </span>
+              <span
+                class="text-3xl font-black leading-none md:text-5xl lg:text-6xl font-display text-slate-900"
+                >YOUR</span
+              >
+              <span
+                class="ml-4 text-2xl font-black tracking-tight uppercase md:text-3xl font-body"
+                style="color: var(--brand-cordovan);">ROAD</span
+              >
+            </div>
+          </div>
         </div>
         <div class="mt-2">
           <span class="text-base md:text-lg font-body text-slate-700"
@@ -41,8 +59,7 @@
         <p
           class="mb-8 text-xl italic font-light leading-relaxed md:text-2xl text-slate-700 font-body"
         >
-          Visionary founders of Europe, who see the world in decades ahead,<br
-          />
+          Visionaries of Europe, who see the world in decades ahead,<br />
           what will you build with the power<br />
           of a million crowd and a 1.000.000 € backing you?
         </p>

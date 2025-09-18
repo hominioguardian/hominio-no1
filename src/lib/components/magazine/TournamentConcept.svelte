@@ -1,5 +1,5 @@
 <section
-  class="py-20 px-6 relative"
+  class="relative px-6 py-20"
   style="background: linear-gradient(to bottom, var(--brand-oxford), #1e293b, var(--brand-cordovan));"
 >
   <!-- Decorative Elements -->
@@ -8,46 +8,45 @@
     style="background-color: var(--brand-yellow);"
   ></div>
   <div
-    class="absolute bottom-10 right-10 w-80 h-80 rounded-full opacity-15 blur-3xl"
+    class="absolute right-10 bottom-10 w-80 h-80 rounded-full blur-3xl opacity-15"
     style="background-color: var(--brand-honeydew);"
   ></div>
   <div
-    class="absolute top-1/2 right-20 w-48 h-48 rounded-full opacity-12 blur-3xl"
+    class="absolute right-20 top-1/2 w-48 h-48 rounded-full blur-3xl opacity-12"
     style="background-color: var(--brand-teal);"
   ></div>
 
-  <div class="max-w-5xl mx-auto relative z-10">
+  <div class="relative z-10 mx-auto max-w-5xl">
     <!-- Section Header -->
-    <div class="text-center mb-16">
+    <div class="mb-16 text-center">
       <h2
-        class="text-2xl md:text-4xl font-black font-body uppercase tracking-normal mb-8 text-white"
+        class="mb-8 text-2xl font-black tracking-normal text-white uppercase md:text-4xl font-body"
       >
         HOMINIO EUROPE CUP
       </h2>
     </div>
 
     <!-- Main Concept -->
-    <div class="prose prose-2xl prose-slate mx-auto text-center mb-16">
+    <div class="mx-auto mb-16 text-center prose prose-2xl prose-slate">
       <p
-        class="text-3xl md:text-5xl font-display font-light leading-tight text-gray-100 mb-8"
+        class="mb-8 text-3xl font-light leading-tight text-gray-100 md:text-5xl font-display"
       >
         Enter world's first<br />
         <span
-          class="font-black font-body uppercase tracking-normal"
-          style="color: var(--brand-honeydew);">STARTUP TOURNAMENT</span
+          class="font-black tracking-normal uppercase font-body"
+          style="color: var(--brand-honeydew);">STARTUP CHAMPIONS LEAGUE</span
         >,<br />
         where
         <span
-          class="font-black font-body uppercase tracking-normal"
+          class="font-black tracking-normal uppercase font-body"
           style="color: var(--brand-yellow);">1 MILLION HUMANS</span
         >
         invest
         <span
-          class="font-black font-body uppercase tracking-normal"
+          class="font-black tracking-normal uppercase font-body"
           style="color: var(--brand-honeydew);">1€ EACH</span
         ><br />
-        into one founders vision<br />
-        that transforms how we live and work tomorrow.
+        into one vision that we all co-create
       </p>
     </div>
   </div>

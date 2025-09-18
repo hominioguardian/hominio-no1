@@ -19,7 +19,7 @@
     <h1
       class="text-3xl font-light leading-tight text-white drop-shadow-lg md:text-5xl lg:text-6xl font-display"
     >
-      Imagine waking up everyday with<br />
+      Picture this, you wake up everyday with<br />
       <span
         class="px-3 py-1 font-black tracking-normal uppercase rounded-xl drop-shadow-md font-body bg-amber-50/40"
         style="color: var(--brand-yellow);">SPARKLING EYES</span
@@ -32,8 +32,8 @@
         class="px-3 py-1 font-black tracking-normal uppercase rounded-xl drop-shadow-md font-body bg-amber-50/40"
         style="color: var(--brand-cordovan);">FIRE IN THE BELLY</span
       ><br />
-      <span class="block mt-3"
-        >where purposeful work feels like pure joy...</span
+      <span class="block mt-3 text-xl md:text-2xl lg:text-3xl"
+        >because the mission you contribute to feels like pure joy...</span
       >
     </h1>
   </div>

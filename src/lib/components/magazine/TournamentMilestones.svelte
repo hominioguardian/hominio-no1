@@ -1,3 +1,7 @@
+<script>
+  // Tournament milestones component
+</script>
+
 <section
   class="relative px-6 py-16"
   style="background: linear-gradient(to bottom, #f8fafc, var(--brand-honeydew), #fefce8);"
@@ -30,34 +34,34 @@
 
       <!-- Description -->
       <p
-        class="text-xl md:text-2xl font-display font-light italic text-slate-600 leading-relaxed max-w-3xl mx-auto"
+        class="mx-auto max-w-3xl text-xl italic font-light leading-relaxed md:text-2xl font-display text-slate-600"
       >
         Every milestone, every stage, every step mapped out.
         <br />
         From
         <span
-          class="font-black font-body uppercase tracking-normal"
+          class="font-black tracking-normal uppercase font-body"
           style="color: var(--brand-yellow);">zero to hero</span
         >
         in six decisive rounds.
       </p>
 
       <!-- Dynamic Pool Explanation -->
-      <div class="mt-8 max-w-4xl mx-auto">
+      <div class="mx-auto mt-8 max-w-4xl">
         <div
-          class="bg-white/80 backdrop-blur-sm rounded-2xl p-6 shadow-lg border border-white/60"
+          class="p-6 rounded-2xl border shadow-lg backdrop-blur-sm bg-white/80 border-white/60"
         >
           <p
-            class="text-lg md:text-xl font-display font-medium text-slate-700 leading-relaxed text-center"
+            class="text-lg font-medium leading-relaxed text-center md:text-xl font-display text-slate-700"
           >
             The prize pool grows <span
               class="font-bold"
               style="color: var(--brand-yellow);">dynamically</span
             >
-            with each milestone. Every ticket sold to the grand final — the first
-            Hominio Summit event — contributes to the final funding pool.
+            with each milestone. Every 1€ vote from the community contributes to
+            building the final funding pool throughout the tournament rounds.
             <span class="font-bold" style="color: var(--brand-cordovan);"
-              >The more engagement, the bigger the prize</span
+              >The more participation, the bigger the prize</span
             >.
           </p>
         </div>
@@ -73,22 +77,82 @@
         class="absolute left-1/2 w-1 h-full transform -translate-x-1/2 bg-slate-300"
       ></div>
 
+      <!-- Qualification Phase Visual Section -->
+      <div class="relative mb-16">
+        <!-- Background decoration -->
+        <div class="absolute inset-0 -mx-16 -my-8">
+          <div
+            class="w-full h-full rounded-3xl opacity-5"
+            style="background: linear-gradient(135deg, var(--brand-yellow), var(--brand-teal));"
+          ></div>
+          <!-- Decorative elements -->
+          <div
+            class="absolute top-4 left-8 w-16 h-16 rounded-full opacity-10"
+            style="background-color: var(--brand-yellow);"
+          ></div>
+          <div
+            class="absolute bottom-4 right-8 w-12 h-12 rounded-full opacity-10"
+            style="background-color: var(--brand-teal);"
+          ></div>
+        </div>
+
+        <!-- Content -->
+        <div class="relative z-10 px-8 py-16">
+          <div class="text-center">
+            <!-- Main title with special styling -->
+            <div class="inline-flex justify-center items-center mb-8">
+              <div
+                class="px-12 py-6 rounded-3xl shadow-2xl transition-transform duration-300 transform -rotate-1 hover:rotate-0"
+                style="background: linear-gradient(135deg, var(--brand-yellow), var(--brand-teal));"
+              >
+                <h2
+                  class="text-4xl font-black tracking-wider text-white font-body"
+                >
+                  QUALIFICATION
+                </h2>
+                <div
+                  class="text-2xl font-black tracking-wide font-body text-white/90"
+                >
+                  PHASE
+                </div>
+              </div>
+            </div>
+
+            <!-- Decorative line with badge -->
+            <div class="flex justify-center items-center mb-8 space-x-6">
+              <div
+                class="w-24 h-1 bg-gradient-to-r from-transparent via-yellow-400 to-yellow-400 rounded-full"
+              ></div>
+              <div
+                class="px-8 py-3 text-lg font-black tracking-wider rounded-full shadow-lg border-3 bg-white/95"
+                style="border-color: var(--brand-yellow); color: var(--brand-oxford);"
+              >
+                PARALLEL ROUNDS
+              </div>
+              <div
+                class="w-24 h-1 bg-gradient-to-l from-transparent via-teal-400 to-teal-400 rounded-full"
+              ></div>
+            </div>
+          </div>
+        </div>
+      </div>
+
       <!-- Qualify 1 - Left Side -->
       <div class="flex relative items-center mb-12">
         <div class="flex justify-end pr-8 w-1/2">
-          <div class="group relative max-w-md">
+          <div class="relative max-w-md group">
             <!-- Background angled rectangle -->
             <div
-              class="absolute -top-3 -right-3 w-full h-full rounded-3xl opacity-20 transform -rotate-2 group-hover:rotate-2 transition-transform duration-300"
+              class="absolute -top-3 -right-3 w-full h-full rounded-3xl opacity-20 transition-transform duration-300 transform -rotate-2 group-hover:rotate-2"
               style="background-color: var(--brand-yellow);"
             ></div>
 
             <div
-              class="relative bg-white/95 backdrop-blur-sm rounded-2xl p-6 shadow-xl border border-white/60 overflow-hidden text-right"
+              class="overflow-hidden relative p-6 text-right rounded-2xl border shadow-xl backdrop-blur-sm bg-white/95 border-white/60"
             >
               <!-- Giant number background -->
               <div
-                class="absolute -bottom-2 -left-2 text-6xl font-black opacity-8 font-body leading-none"
+                class="absolute -bottom-2 -left-2 text-6xl font-black leading-none opacity-8 font-body"
                 style="color: var(--brand-yellow);"
               >
                 Q1
@@ -98,14 +162,14 @@
               <div class="relative z-10">
                 <div class="mb-4">
                   <div
-                    class="w-8 h-1 mb-3 rounded-full ml-auto"
+                    class="mb-3 ml-auto w-8 h-1 rounded-full"
                     style="background-color: var(--brand-yellow);"
                   ></div>
                   <h3
-                    class="text-sm font-black uppercase tracking-tight"
+                    class="text-sm font-black tracking-tight uppercase"
                     style="color: var(--brand-oxford);"
                   >
-                    QUALIFYING 1 • 5 OKT - 10 JAN
+                    6 OKT - 21 MARCH
                   </h3>
                 </div>
 
@@ -125,19 +189,7 @@
                     </div>
                   </div>
 
-                  <div class="space-y-2 pt-2 border-t border-slate-200">
-                    <div class="text-sm" style="color: var(--brand-oxford);">
-                      <span
-                        class="font-bold"
-                        style="color: var(--brand-yellow);">Format:</span
-                      > Open to anyone with a vision
-                    </div>
-                    <div class="text-sm" style="color: var(--brand-oxford);">
-                      <span
-                        class="font-bold"
-                        style="color: var(--brand-yellow);">Voting:</span
-                      > 100 likes needed
-                    </div>
+                  <div class="pt-2 space-y-2 border-t border-slate-200">
                     <div class="text-sm" style="color: var(--brand-oxford);">
                       <span
                         class="font-bold"
@@ -146,19 +198,19 @@
                     </div>
                   </div>
 
-                  <!-- Pool Size -->
+                  <!-- Voting Method -->
                   <div class="pt-4 border-t border-slate-200">
                     <div class="text-center">
                       <div
-                        class="text-xs tracking-wide uppercase text-slate-500 mb-1"
+                        class="mb-1 text-xs tracking-wide uppercase text-slate-500"
                       >
-                        Estimated Fund Size
+                        Voting Method
                       </div>
                       <div
-                        class="text-2xl font-black font-body"
+                        class="text-xl font-black font-body"
                         style="color: var(--brand-yellow);"
                       >
-                        1€
+                        100 Insta Likes
                       </div>
                     </div>
                   </div>
@@ -193,8 +245,10 @@
                 class="text-lg font-black leading-tight uppercase md:text-xl font-body"
                 style="color: #B8941F;"
               >
-                1 INSTA VIDEO,<br />
-                <span class="text-xl md:text-3xl">100 LIKES</span>
+                <span class="text-xl md:text-3xl">QUALIFYING 1</span>
+                <div class="mt-1 text-sm font-normal" style="color: #8B7355;">
+                  share 1 insta story
+                </div>
               </div>
             </div>
           </div>
@@ -225,8 +279,10 @@
                 class="text-lg font-black leading-tight uppercase md:text-xl font-body"
                 style="color: #155B60;"
               >
-                MOST YOUTUBE<br />
-                VOTES PROCEED
+                <span class="text-xl md:text-3xl">QUALIFYING 2</span>
+                <div class="mt-1 text-sm font-normal" style="color: #0F4E54;">
+                  12 groups of 8
+                </div>
               </div>
             </div>
           </div>
@@ -236,19 +292,19 @@
           style="background-color: var(--brand-teal);"
         ></div>
         <div class="pl-8 w-1/2 text-left">
-          <div class="group relative">
+          <div class="relative group">
             <!-- Background geometric shape -->
             <div
-              class="absolute -top-3 -left-3 w-full h-full rounded-3xl opacity-20 transform rotate-1 group-hover:-rotate-1 transition-transform duration-300"
+              class="absolute -top-3 -left-3 w-full h-full rounded-3xl opacity-20 transition-transform duration-300 transform rotate-1 group-hover:-rotate-1"
               style="background-color: var(--brand-teal);"
             ></div>
 
             <div
-              class="relative bg-white/95 backdrop-blur-sm rounded-2xl p-6 shadow-xl border border-white/60 overflow-hidden"
+              class="overflow-hidden relative p-6 rounded-2xl border shadow-xl backdrop-blur-sm bg-white/95 border-white/60"
             >
               <!-- Giant number background -->
               <div
-                class="absolute -top-2 -right-2 text-6xl font-black opacity-8 font-body leading-none"
+                class="absolute -top-2 -right-2 text-6xl font-black leading-none opacity-8 font-body"
                 style="color: var(--brand-teal);"
               >
                 Q2
@@ -258,14 +314,14 @@
               <div class="relative z-10">
                 <div class="mb-4">
                   <div
-                    class="w-8 h-1 mb-3 rounded-full"
+                    class="mb-3 w-8 h-1 rounded-full"
                     style="background-color: var(--brand-teal);"
                   ></div>
                   <h3
-                    class="text-sm font-black uppercase tracking-tight"
+                    class="text-sm font-black tracking-tight uppercase"
                     style="color: var(--brand-oxford);"
                   >
-                    QUALIFYING 2 • 11 JAN - 20 MARCH
+                    6 OKT - 21 MARCH
                   </h3>
                 </div>
 
@@ -283,17 +339,7 @@
                     </div>
                   </div>
 
-                  <div class="space-y-2 pt-2 border-t border-slate-200">
-                    <div class="text-sm" style="color: var(--brand-oxford);">
-                      <span class="font-bold" style="color: var(--brand-teal);"
-                        >Format:</span
-                      > 96 founders, 12 groups of 8
-                    </div>
-                    <div class="text-sm" style="color: var(--brand-oxford);">
-                      <span class="font-bold" style="color: var(--brand-teal);"
-                        >Voting:</span
-                      > 1 view = 1 vote, 1 like = 10 votes, 1 comment = 25 votes
-                    </div>
+                  <div class="pt-2 space-y-2 border-t border-slate-200">
                     <div class="text-sm" style="color: var(--brand-oxford);">
                       <span class="font-bold" style="color: var(--brand-teal);"
                         >To proceed:</span
@@ -301,19 +347,26 @@
                     </div>
                   </div>
 
-                  <!-- Pool Size -->
+                  <!-- Voting Method -->
                   <div class="pt-4 border-t border-slate-200">
                     <div class="text-center">
                       <div
-                        class="text-xs tracking-wide uppercase text-slate-500 mb-1"
+                        class="mb-1 text-xs tracking-wide uppercase text-slate-500"
                       >
-                        Estimated Fund Size
+                        Voting Method
                       </div>
                       <div
-                        class="text-2xl font-black font-body"
+                        class="text-lg font-black font-body"
                         style="color: var(--brand-teal);"
                       >
-                        50k€
+                        YOUTUBE ALGORITHM
+                        <div
+                          class="mt-1 text-xs font-normal"
+                          style="color: var(--brand-oxford);"
+                        >
+                          1 view = 1 vote • 1 like = 10 votes • 1 comment = 25
+                          votes
+                        </div>
                       </div>
                     </div>
                   </div>
@@ -324,22 +377,105 @@
         </div>
       </div>
 
+      <!-- Qualification Explanation Text -->
+      <div class="py-8 mb-16 text-center">
+        <div class="mx-auto max-w-4xl">
+          <div
+            class="p-8 rounded-2xl border shadow-lg backdrop-blur-sm bg-white/80 border-white/60"
+            style="background: linear-gradient(135deg, rgba(255,255,255,0.95), rgba(249,250,251,0.95));"
+          >
+            <p
+              class="text-xl leading-relaxed font-display"
+              style="color: var(--brand-oxford);"
+            >
+              Both qualification rounds run in parallel. Each time 8 founders
+              proceed from Q1, the next group starts in Q2 phase, creating a
+              continuous qualification flow.
+            </p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Tournament Rounds Visual Section -->
+      <div class="relative mb-16">
+        <!-- Background decoration -->
+        <div class="absolute inset-0 -mx-16 -my-8">
+          <div
+            class="w-full h-full rounded-3xl opacity-5"
+            style="background: linear-gradient(135deg, var(--brand-cordovan), var(--brand-oxford));"
+          ></div>
+          <!-- Decorative elements -->
+          <div
+            class="absolute top-4 left-8 w-16 h-16 rounded-full opacity-10"
+            style="background-color: var(--brand-cordovan);"
+          ></div>
+          <div
+            class="absolute bottom-4 right-8 w-12 h-12 rounded-full opacity-10"
+            style="background-color: var(--brand-oxford);"
+          ></div>
+          <div
+            class="absolute top-1/2 left-1/2 w-8 h-8 opacity-5 transform -translate-x-1/2 -translate-y-1/2"
+            style="background-color: var(--brand-yellow);"
+          ></div>
+        </div>
+
+        <!-- Content -->
+        <div class="relative z-10 px-8 py-16">
+          <div class="text-center">
+            <!-- Main title with special styling -->
+            <div class="inline-flex justify-center items-center mb-8">
+              <div
+                class="px-12 py-6 rounded-3xl shadow-2xl transition-transform duration-300 transform rotate-1 hover:rotate-0"
+                style="background: linear-gradient(135deg, var(--brand-cordovan), var(--brand-oxford));"
+              >
+                <h2
+                  class="text-4xl font-black tracking-wider text-white font-body"
+                >
+                  TOURNAMENT
+                </h2>
+                <div
+                  class="text-2xl font-black tracking-wide font-body text-white/90"
+                >
+                  ROUNDS
+                </div>
+              </div>
+            </div>
+
+            <!-- Decorative line with badge -->
+            <div class="flex justify-center items-center mb-8 space-x-6">
+              <div
+                class="w-24 h-1 bg-gradient-to-r from-transparent via-purple-400 to-purple-400 rounded-full"
+              ></div>
+              <div
+                class="px-8 py-3 text-lg font-black tracking-wider rounded-full shadow-lg border-3 bg-white/95"
+                style="border-color: var(--brand-cordovan); color: var(--brand-oxford);"
+              >
+                MAIN COMPETITION
+              </div>
+              <div
+                class="w-24 h-1 bg-gradient-to-l from-transparent via-purple-600 to-purple-600 rounded-full"
+              ></div>
+            </div>
+          </div>
+        </div>
+      </div>
+
       <!-- Round of 48 - Left Detail & Right Summary -->
       <div class="flex relative items-center mb-12">
         <div class="flex justify-end pr-8 w-1/2">
-          <div class="group relative max-w-md">
+          <div class="relative max-w-md group">
             <!-- Background hexagonal shape -->
             <div
-              class="absolute -top-4 -right-4 w-16 h-16 opacity-25 transform group-hover:scale-110 transition-transform duration-300"
+              class="absolute -top-4 -right-4 w-16 h-16 opacity-25 transition-transform duration-300 transform group-hover:scale-110"
               style="background-color: var(--brand-cordovan); clip-path: polygon(30% 0%, 70% 0%, 100% 30%, 100% 70%, 70% 100%, 30% 100%, 0% 70%, 0% 30%);"
             ></div>
 
             <div
-              class="relative bg-white/95 backdrop-blur-sm rounded-2xl p-6 shadow-xl border border-white/60 overflow-hidden text-right"
+              class="overflow-hidden relative p-6 text-right rounded-2xl border shadow-xl backdrop-blur-sm bg-white/95 border-white/60"
             >
               <!-- Giant number background -->
               <div
-                class="absolute -bottom-2 -left-2 text-6xl font-black opacity-8 font-body leading-none"
+                class="absolute -bottom-2 -left-2 text-6xl font-black leading-none opacity-8 font-body"
                 style="color: var(--brand-cordovan);"
               >
                 R1
@@ -349,14 +485,14 @@
               <div class="relative z-10">
                 <div class="mb-4">
                   <div
-                    class="w-8 h-1 mb-3 rounded-full ml-auto"
+                    class="mb-3 ml-auto w-8 h-1 rounded-full"
                     style="background-color: var(--brand-cordovan);"
                   ></div>
                   <h3
-                    class="text-sm font-black uppercase tracking-tight"
+                    class="text-sm font-black tracking-tight uppercase"
                     style="color: var(--brand-oxford);"
                   >
-                    ROUND 1 • 21 MARCH - 30 JUNE
+                    21 MARCH - 31 MAY
                   </h3>
                 </div>
 
@@ -371,19 +507,12 @@
                     <div class="text-sm" style="color: var(--brand-oxford);">
                       <span
                         class="font-bold"
-                        style="color: var(--brand-cordovan);">Format:</span
-                      > Triple Shootout (1 vs 1 vs 1) via pre-sale of 1200 to 3500
-                      final Hominio Summit tickets
+                        style="color: var(--brand-cordovan);">Content:</span
+                      > MatchDay Story
                     </div>
                   </div>
 
-                  <div class="space-y-2 pt-2 border-t border-slate-200">
-                    <div class="text-sm" style="color: var(--brand-oxford);">
-                      <span
-                        class="font-bold"
-                        style="color: var(--brand-cordovan);">Voting:</span
-                      > 1 summit ticket = 500 votes
-                    </div>
+                  <div class="pt-2 space-y-2 border-t border-slate-200">
                     <div class="text-sm" style="color: var(--brand-oxford);">
                       <span
                         class="font-bold"
@@ -392,19 +521,19 @@
                     </div>
                   </div>
 
-                  <!-- Pool Size -->
+                  <!-- Voting Method -->
                   <div class="pt-4 border-t border-slate-200">
                     <div class="text-center">
                       <div
-                        class="text-xs tracking-wide uppercase text-slate-500 mb-1"
+                        class="mb-1 text-xs tracking-wide uppercase text-slate-500"
                       >
-                        Estimated Fund Size
+                        Voting Method
                       </div>
                       <div
-                        class="text-2xl font-black font-body"
+                        class="text-lg font-black leading-tight font-body"
                         style="color: var(--brand-cordovan);"
                       >
-                        250k€
+                        1€ = 1 VOTE
                       </div>
                     </div>
                   </div>
@@ -427,7 +556,7 @@
               <div class="mb-3">
                 <div
                   class="text-3xl font-black md:text-4xl font-body"
-                  style="color: #A594D1;"
+                  style="color: #C5B8E8;"
                 >
                   48
                 </div>
@@ -437,10 +566,12 @@
               </div>
               <div
                 class="text-lg font-black leading-tight uppercase md:text-xl font-body"
-                style="color: #A594D1;"
+                style="color: #C5B8E8;"
               >
-                MOST SUMMIT<br />
-                TICKET VOTES
+                <span class="text-xl md:text-3xl">ROUND 1</span>
+                <div class="mt-1 text-sm font-normal" style="color: #B8A9D9;">
+                  1 vs 1 vs 1 triple knockout
+                </div>
               </div>
             </div>
           </div>
@@ -471,8 +602,10 @@
                 class="text-lg font-black leading-tight uppercase md:text-xl font-body"
                 style="color: #B8941F;"
               >
-                MOST STREAMING<br />
-                TICKET VOTES
+                <span class="text-xl md:text-3xl">ROUND 2</span>
+                <div class="mt-1 text-sm font-normal" style="color: #8B7355;">
+                  1 vs 1 knockout
+                </div>
               </div>
             </div>
           </div>
@@ -482,19 +615,19 @@
           style="background-color: var(--brand-yellow);"
         ></div>
         <div class="pl-8 w-1/2 text-left">
-          <div class="group relative">
+          <div class="relative group">
             <!-- Background triangular shape -->
             <div
-              class="absolute -top-6 -left-6 w-20 h-20 opacity-20 transform rotate-45 group-hover:rotate-12 transition-transform duration-300"
+              class="absolute -top-6 -left-6 w-20 h-20 opacity-20 transition-transform duration-300 transform rotate-45 group-hover:rotate-12"
               style="background-color: var(--brand-yellow);"
             ></div>
 
             <div
-              class="relative bg-white/95 backdrop-blur-sm rounded-2xl p-6 shadow-xl border border-white/60 overflow-hidden"
+              class="overflow-hidden relative p-6 rounded-2xl border shadow-xl backdrop-blur-sm bg-white/95 border-white/60"
             >
               <!-- Giant number background -->
               <div
-                class="absolute -top-2 -right-2 text-6xl font-black opacity-8 font-body leading-none"
+                class="absolute -top-2 -right-2 text-6xl font-black leading-none opacity-8 font-body"
                 style="color: var(--brand-yellow);"
               >
                 R2
@@ -504,14 +637,14 @@
               <div class="relative z-10">
                 <div class="mb-4">
                   <div
-                    class="w-8 h-1 mb-3 rounded-full"
+                    class="mb-3 w-8 h-1 rounded-full"
                     style="background-color: var(--brand-yellow);"
                   ></div>
                   <h3
-                    class="text-sm font-black uppercase tracking-tight"
+                    class="text-sm font-black tracking-tight uppercase"
                     style="color: var(--brand-oxford);"
                   >
-                    ROUND 2 • 1 JULY - 31 JULY
+                    1 JUNE - 30 JUNE
                   </h3>
                 </div>
 
@@ -526,20 +659,12 @@
                     <div class="text-sm" style="color: var(--brand-oxford);">
                       <span
                         class="font-bold"
-                        style="color: var(--brand-yellow);">Format:</span
-                      > 1 vs 1 knockout via pre-sale of final Hominio Summit online
-                      streaming ticket sale
+                        style="color: var(--brand-yellow);">Content:</span
+                      > MatchDay Story
                     </div>
                   </div>
 
-                  <div class="space-y-2 pt-2 border-t border-slate-200">
-                    <div class="text-sm" style="color: var(--brand-oxford);">
-                      <span
-                        class="font-bold"
-                        style="color: var(--brand-yellow);">Voting:</span
-                      > Summit tickets (500 votes) + Streaming tickets (50 votes
-                      each)
-                    </div>
+                  <div class="pt-2 space-y-2 border-t border-slate-200">
                     <div class="text-sm" style="color: var(--brand-oxford);">
                       <span
                         class="font-bold"
@@ -548,19 +673,19 @@
                     </div>
                   </div>
 
-                  <!-- Pool Size -->
+                  <!-- Voting Method -->
                   <div class="pt-4 border-t border-slate-200">
                     <div class="text-center">
                       <div
-                        class="text-xs tracking-wide uppercase text-slate-500 mb-1"
+                        class="mb-1 text-xs tracking-wide uppercase text-slate-500"
                       >
-                        Estimated Fund Size
+                        Voting Method
                       </div>
                       <div
-                        class="text-2xl font-black font-body"
+                        class="text-lg font-black font-body"
                         style="color: var(--brand-yellow);"
                       >
-                        500k€
+                        1€ = 1 VOTE
                       </div>
                     </div>
                   </div>
@@ -574,19 +699,19 @@
       <!-- Round of 16 - Left Side -->
       <div class="flex relative items-center mb-12">
         <div class="flex justify-end pr-8 w-1/2">
-          <div class="group relative max-w-md">
+          <div class="relative max-w-md group">
             <!-- Background circular shape -->
             <div
-              class="absolute -top-4 -right-4 w-16 h-16 rounded-full opacity-25 transform group-hover:scale-125 transition-transform duration-300"
+              class="absolute -top-4 -right-4 w-16 h-16 rounded-full opacity-25 transition-transform duration-300 transform group-hover:scale-125"
               style="background-color: var(--brand-teal);"
             ></div>
 
             <div
-              class="relative bg-white/95 backdrop-blur-sm rounded-2xl p-6 shadow-xl border border-white/60 overflow-hidden text-right"
+              class="overflow-hidden relative p-6 text-right rounded-2xl border shadow-xl backdrop-blur-sm bg-white/95 border-white/60"
             >
               <!-- Giant number background -->
               <div
-                class="absolute -bottom-2 -left-2 text-6xl font-black opacity-8 font-body leading-none"
+                class="absolute -bottom-2 -left-2 text-6xl font-black leading-none opacity-8 font-body"
                 style="color: var(--brand-teal);"
               >
                 R3
@@ -596,14 +721,14 @@
               <div class="relative z-10">
                 <div class="mb-4">
                   <div
-                    class="w-8 h-1 mb-3 rounded-full ml-auto"
+                    class="mb-3 ml-auto w-8 h-1 rounded-full"
                     style="background-color: var(--brand-teal);"
                   ></div>
                   <h3
-                    class="text-sm font-black uppercase tracking-tight"
+                    class="text-sm font-black tracking-tight uppercase"
                     style="color: var(--brand-oxford);"
                   >
-                    ROUND 3 • 1 AUGUST - 31 AUGUST
+                    1 JULY - 31 JULY
                   </h3>
                 </div>
 
@@ -616,39 +741,32 @@
                     </div>
                     <div class="text-sm" style="color: var(--brand-oxford);">
                       <span class="font-bold" style="color: var(--brand-teal);"
-                        >Format:</span
-                      > 1 vs 1 knockout like in Round 2, but with additional Live
-                      Vote tickets
+                        >Content:</span
+                      > MatchDay Story
                     </div>
                   </div>
 
-                  <div class="space-y-2 pt-2 border-t border-slate-200">
-                    <div class="text-sm" style="color: var(--brand-oxford);">
-                      <span class="font-bold" style="color: var(--brand-teal);"
-                        >Voting:</span
-                      > Summit tickets (500 votes) + Streaming tickets (50 votes)
-                      + Live Vote tickets (1€ = 1 vote)
-                    </div>
+                  <div class="pt-2 space-y-2 border-t border-slate-200">
                     <div class="text-sm" style="color: var(--brand-oxford);">
                       <span class="font-bold" style="color: var(--brand-teal);"
                         >To proceed:</span
-                      > most 1€ votes per match
+                      > Most votes per match proceed
                     </div>
                   </div>
 
-                  <!-- Pool Size -->
+                  <!-- Voting Method -->
                   <div class="pt-4 border-t border-slate-200">
                     <div class="text-center">
                       <div
-                        class="text-xs tracking-wide uppercase text-slate-500 mb-1"
+                        class="mb-1 text-xs tracking-wide uppercase text-slate-500"
                       >
-                        Estimated Fund Size
+                        Voting Method
                       </div>
                       <div
-                        class="text-2xl font-black font-body"
+                        class="text-lg font-black leading-tight font-body"
                         style="color: var(--brand-teal);"
                       >
-                        750k€
+                        1€ = 1 VOTE
                       </div>
                     </div>
                   </div>
@@ -683,8 +801,10 @@
                 class="text-lg font-black leading-tight uppercase md:text-xl font-body"
                 style="color: #155B60;"
               >
-                MOST LIVE-TICKER<br />
-                TICKET VOTES
+                <span class="text-xl md:text-3xl">ROUND 3</span>
+                <div class="mt-1 text-sm font-normal" style="color: #0F4E54;">
+                  1 vs 1 knockout
+                </div>
               </div>
             </div>
           </div>
@@ -703,7 +823,7 @@
               <div class="mb-3">
                 <div
                   class="text-3xl font-black md:text-4xl font-body"
-                  style="color: #A594D1;"
+                  style="color: #C5B8E8;"
                 >
                   8
                 </div>
@@ -713,11 +833,12 @@
               </div>
               <div
                 class="text-lg font-black leading-tight uppercase md:text-xl font-body"
-                style="color: #A594D1;"
+                style="color: #C5B8E8;"
               >
-                30 MIN<br />
-                ELIMINATION<br />
-                ROUNDS
+                <span class="text-xl md:text-3xl">GRAND FINALE</span>
+                <div class="mt-1 text-sm font-normal" style="color: #B8A9D9;">
+                  30 min elimination rounds
+                </div>
               </div>
             </div>
           </div>
@@ -727,19 +848,19 @@
           style="background-color: var(--brand-cordovan);"
         ></div>
         <div class="pl-8 w-1/2 text-left">
-          <div class="group relative">
+          <div class="relative group">
             <!-- Background diamond shape -->
             <div
-              class="absolute -top-6 -left-6 w-20 h-20 opacity-25 transform rotate-45 group-hover:rotate-90 transition-transform duration-500"
+              class="absolute -top-6 -left-6 w-20 h-20 opacity-25 transition-transform duration-500 transform rotate-45 group-hover:rotate-90"
               style="background-color: var(--brand-cordovan);"
             ></div>
 
             <div
-              class="relative bg-white/95 backdrop-blur-sm rounded-2xl p-6 shadow-xl border border-white/60 overflow-hidden"
+              class="overflow-hidden relative p-6 rounded-2xl border shadow-xl backdrop-blur-sm bg-white/95 border-white/60"
             >
               <!-- Giant trophy background -->
               <div
-                class="absolute -top-2 -right-2 text-5xl font-black opacity-8 font-body leading-none"
+                class="absolute -top-2 -right-2 text-5xl font-black leading-none opacity-8 font-body"
                 style="color: var(--brand-cordovan);"
               >
                 🏆
@@ -749,14 +870,14 @@
               <div class="relative z-10">
                 <div class="mb-4">
                   <div
-                    class="w-8 h-1 mb-3 rounded-full"
+                    class="mb-3 w-8 h-1 rounded-full"
                     style="background-color: var(--brand-cordovan);"
                   ></div>
                   <h3
-                    class="text-sm font-black uppercase tracking-tight"
+                    class="text-sm font-black tracking-tight uppercase"
                     style="color: var(--brand-oxford);"
                   >
-                    GRAND FINALE • 19 SEPTEMBER 2026
+                    19 SEPTEMBER 2026
                   </h3>
                 </div>
 
@@ -769,38 +890,21 @@
                       > Live Event + Online Stream in Curium Ancient Theatre in Limassol,
                       Cyprus
                     </div>
-                    <div class="text-sm" style="color: var(--brand-oxford);">
-                      <span
-                        class="font-bold"
-                        style="color: var(--brand-cordovan);">Format:</span
-                      > every 30 minutes, 1 participant voted out until 1 winner
-                      remains
-                    </div>
                   </div>
 
-                  <div class="space-y-2 pt-2 border-t border-slate-200">
-                    <div class="text-sm" style="color: var(--brand-oxford);">
-                      <span
-                        class="font-bold"
-                        style="color: var(--brand-cordovan);">Voting:</span
-                      > Summit tickets (500 votes) + Streaming tickets (50 votes)
-                      + Live Vote tickets (1€ = 1 vote)
-                    </div>
-                  </div>
-
-                  <!-- Pool Size -->
+                  <!-- Voting Method -->
                   <div class="pt-4 border-t border-slate-200">
                     <div class="text-center">
                       <div
-                        class="text-xs tracking-wide uppercase text-slate-500 mb-1"
+                        class="mb-1 text-xs tracking-wide uppercase text-slate-500"
                       >
-                        Estimated Fund Size
+                        Voting Method
                       </div>
                       <div
-                        class="text-2xl font-black font-body"
+                        class="text-lg font-black leading-tight font-body"
                         style="color: var(--brand-cordovan);"
                       >
-                        1 Million €
+                        1€ = 1 VOTE
                       </div>
                     </div>
                   </div>
@@ -822,10 +926,10 @@
 
           <!-- Magazine-style winner layout -->
           <div
-            class="relative bg-white/95 backdrop-blur-sm rounded-3xl shadow-2xl border border-white/60 overflow-hidden"
+            class="overflow-hidden relative rounded-3xl border shadow-2xl backdrop-blur-sm bg-white/95 border-white/60"
           >
             <!-- Decorative background elements -->
-            <div class="absolute top-0 left-0 w-full h-full overflow-hidden">
+            <div class="overflow-hidden absolute top-0 left-0 w-full h-full">
               <div
                 class="absolute -top-20 -right-20 w-40 h-40 rounded-full opacity-10"
                 style="background-color: var(--brand-yellow);"
@@ -838,15 +942,15 @@
 
             <!-- Main content in 16:9 aspect ratio -->
             <div
-              class="relative z-10 p-8 md:p-12 aspect-video flex items-center"
+              class="flex relative z-10 items-center p-8 md:p-12 aspect-video"
             >
-              <div class="grid md:grid-cols-2 gap-8 w-full items-center">
+              <div class="grid gap-8 items-center w-full md:grid-cols-2">
                 <!-- Left side: Trophy and number -->
                 <div class="text-center md:text-left">
                   <div class="mb-6">
                     <!-- Giant Winner Number -->
                     <div
-                      class="text-8xl md:text-9xl font-black font-body leading-none mb-2"
+                      class="mb-2 text-8xl font-black leading-none md:text-9xl font-body"
                       style="color: var(--brand-yellow); text-shadow: 3px 3px 0px rgba(0,0,0,0.1);"
                     >
                       1
@@ -860,12 +964,12 @@
 
                   <!-- Trophy and Champion -->
                   <div
-                    class="flex items-center justify-center md:justify-start space-x-4"
+                    class="flex justify-center items-center space-x-4 md:justify-start"
                   >
                     <div class="text-6xl">🏆</div>
                     <div>
                       <div
-                        class="text-3xl md:text-4xl font-black font-body uppercase tracking-tight"
+                        class="text-3xl font-black tracking-tight uppercase md:text-4xl font-body"
                         style="color: var(--brand-yellow);"
                       >
                         CHAMPION
@@ -879,12 +983,12 @@
                   <!-- Magazine-style prize header -->
                   <div class="text-center md:text-left">
                     <h3
-                      class="text-2xl md:text-3xl font-display font-light leading-tight mb-4"
+                      class="mb-4 text-2xl font-light leading-tight md:text-3xl font-display"
                       style="color: var(--brand-oxford);"
                     >
                       The Ultimate
                       <span
-                        class="block text-4xl md:text-5xl font-black font-body uppercase tracking-tight"
+                        class="block text-4xl font-black tracking-tight uppercase md:text-5xl font-body"
                         style="color: var(--brand-cordovan);">PRIZE</span
                       >
                     </h3>
@@ -897,13 +1001,13 @@
                   >
                     <div class="text-center">
                       <div
-                        class="text-3xl md:text-4xl font-black font-body leading-tight mb-2"
+                        class="mb-2 text-3xl font-black leading-tight md:text-4xl font-body"
                         style="color: var(--brand-cordovan);"
                       >
                         1 MILLION
                       </div>
                       <div
-                        class="text-xl md:text-2xl font-bold font-display leading-tight mb-1"
+                        class="mb-1 text-xl font-bold leading-tight md:text-2xl font-display"
                         style="color: var(--brand-oxford);"
                       >
                         seedfunding
@@ -912,7 +1016,7 @@
                   </div>
 
                   <!-- Decorative accent -->
-                  <div class="flex justify-center md:justify-start space-x-2">
+                  <div class="flex justify-center space-x-2 md:justify-start">
                     <div
                       class="w-2 h-2 rounded-full"
                       style="background-color: var(--brand-yellow);"

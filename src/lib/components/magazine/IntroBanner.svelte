@@ -55,64 +55,106 @@
     <div class="relative z-10 py-12 text-center md:py-16">
       <!-- Massive Hero Statement -->
       <div class="overflow-hidden relative">
-        <!-- Massive Main Message -->
+        <!-- Magazine-Style Hero -->
         <div class="relative z-20 mb-12">
-          <h1
-            class="text-6xl md:text-8xl lg:text-10xl xl:text-11xl font-black leading-[0.85] tracking-tight text-center"
-          >
-            <div class="mb-4">
-              <span
-                class="block"
-                style="color: var(--brand-cordovan); text-shadow: 3px 3px 0px rgba(0,0,0,0.1);"
-              >
-                PURPOSE-DRIVEN
-              </span>
-            </div>
-            <div class="mb-4">
-              <span
-                class="block"
-                style="color: var(--brand-cordovan); text-shadow: 3px 3px 0px rgba(0,0,0,0.1);"
-              >
-                FOUNDERS
-              </span>
-            </div>
-            <div class="relative">
-              <!-- Glowing background for transform -->
-              <div
-                class="absolute inset-0 bg-gradient-to-r blur-2xl transform scale-110 from-yellow-400/30 via-yellow-300/40 to-yellow-400/30"
-              ></div>
-              <span
-                class="block relative text-7xl md:text-8xl lg:text-10xl xl:text-11xl"
-                style="color: var(--brand-yellow); text-shadow: 1px 1px 0px rgba(0,0,0,0.05);"
-              >
-                TRANSFORM SOCIETIES
-              </span>
-            </div>
-          </h1>
+          <!-- Opening -->
+          <div class="mb-6">
+            <h1
+              class="text-xl font-light text-center md:text-2xl lg:text-3xl font-display"
+              style="color: var(--brand-cordovan);"
+            >
+              Founders of Europe imagine...
+            </h1>
+          </div>
+
+          <!-- Compact Magazine Layout -->
+          <div class="mx-auto max-w-5xl">
+            <h2 class="leading-tight text-center">
+              <!-- Line 1: 1 MILLION HUMANS UNITE -->
+              <div class="mb-3">
+                <span
+                  class="mr-3 text-4xl font-black uppercase md:text-6xl lg:text-7xl font-body"
+                  style="color: var(--brand-yellow); text-shadow: 2px 2px 0px rgba(0,0,0,0.1);"
+                >
+                  1 MILLION
+                </span>
+                <span
+                  class="mr-3 text-3xl md:text-5xl lg:text-6xl font-display"
+                  style="color: var(--brand-cordovan);"
+                >
+                  HUMANS
+                </span>
+                <span
+                  class="text-4xl font-black uppercase md:text-6xl lg:text-7xl font-body"
+                  style="color: var(--brand-teal);"
+                >
+                  UNITE
+                </span>
+              </div>
+
+              <!-- Line 2: TO BRING YOUR STARTUP VISION TO LIFE -->
+              <div class="mb-4">
+                <span
+                  class="mr-3 text-2xl md:text-4xl lg:text-5xl font-display"
+                  style="color: var(--brand-cordovan);"
+                >
+                  to bring
+                </span>
+                <span
+                  class="mr-3 text-2xl font-black uppercase md:text-4xl lg:text-5xl font-body"
+                  style="color: var(--brand-yellow); text-shadow: 2px 2px 0px rgba(0,0,0,0.1);"
+                >
+                  YOUR
+                </span>
+                <span
+                  class="mr-3 text-3xl font-black uppercase md:text-5xl lg:text-6xl font-body"
+                  style="color: var(--brand-teal);"
+                >
+                  STARTUP
+                </span>
+                <span
+                  class="text-2xl md:text-4xl lg:text-5xl font-display"
+                  style="color: var(--brand-cordovan);"
+                >
+                  vision to life
+                </span>
+              </div>
+            </h2>
+          </div>
         </div>
 
         <!-- Elegant Separator -->
-        <div class="flex justify-center mb-8">
-          <div
-            class="w-32 h-1 bg-gradient-to-r from-transparent to-transparent rounded-full via-slate-400"
-          ></div>
+        <div class="flex justify-center mb-12">
+          <div class="flex items-center space-x-4">
+            <div
+              class="w-16 h-px bg-gradient-to-r from-transparent to-slate-300"
+            ></div>
+            <div class="text-4xl" style="color: var(--brand-yellow);">✨</div>
+            <div
+              class="w-16 h-px bg-gradient-to-l from-transparent to-slate-300"
+            ></div>
+          </div>
         </div>
 
-        <!-- Simple Statement -->
+        <!-- Story Statement -->
         <div class="relative z-20">
-          <div class="mx-auto max-w-4xl">
+          <div class="mx-auto max-w-5xl">
             <p
-              class="text-3xl font-light leading-relaxed text-center md:text-4xl lg:text-5xl font-display text-slate-700"
+              class="text-3xl font-light leading-relaxed text-center md:text-4xl lg:text-5xl font-display"
+              style="color: var(--brand-cordovan);"
             >
-              this is the story of how we grow our own
+              this is the story of how
               <span
-                class="font-black tracking-normal uppercase font-body"
-                style="color: var(--brand-teal);"
+                class="mx-2 text-4xl font-black font-body md:text-5xl lg:text-6xl"
+                style="color: var(--brand-yellow);"
               >
-                1 MILLION
+                1€
               </span>
-              startup fund
+              changes everything<br />
+              and how we build a new generation of<br />
+              purpose-driven organisations
             </p>
+            <br />
           </div>
         </div>
 
