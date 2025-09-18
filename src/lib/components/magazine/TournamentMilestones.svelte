@@ -41,6 +41,27 @@
         >
         in six decisive rounds.
       </p>
+
+      <!-- Dynamic Pool Explanation -->
+      <div class="mt-8 max-w-4xl mx-auto">
+        <div
+          class="bg-white/80 backdrop-blur-sm rounded-2xl p-6 shadow-lg border border-white/60"
+        >
+          <p
+            class="text-lg md:text-xl font-display font-medium text-slate-700 leading-relaxed text-center"
+          >
+            The prize pool grows <span
+              class="font-bold"
+              style="color: var(--brand-yellow);">dynamically</span
+            >
+            with each milestone. Every ticket sold to the grand final — the first
+            Hominio Summit event — contributes to the final funding pool.
+            <span class="font-bold" style="color: var(--brand-cordovan);"
+              >The more engagement, the bigger the prize</span
+            >.
+          </p>
+        </div>
+      </div>
     </div>
   </div>
 
@@ -84,7 +105,7 @@
                     class="text-sm font-black uppercase tracking-tight"
                     style="color: var(--brand-oxford);"
                   >
-                    QUALIFYING 1 • 1 OKT - 31 DEZ
+                    QUALIFYING 1 • 5 OKT - 10 JAN
                   </h3>
                 </div>
 
@@ -122,6 +143,23 @@
                         class="font-bold"
                         style="color: var(--brand-yellow);">To proceed:</span
                       > 1h founders call + review
+                    </div>
+                  </div>
+
+                  <!-- Pool Size -->
+                  <div class="pt-4 border-t border-slate-200">
+                    <div class="text-center">
+                      <div
+                        class="text-xs tracking-wide uppercase text-slate-500 mb-1"
+                      >
+                        Estimated Fund Size
+                      </div>
+                      <div
+                        class="text-2xl font-black font-body"
+                        style="color: var(--brand-yellow);"
+                      >
+                        1€
+                      </div>
                     </div>
                   </div>
                 </div>
@@ -227,7 +265,7 @@
                     class="text-sm font-black uppercase tracking-tight"
                     style="color: var(--brand-oxford);"
                   >
-                    QUALIFYING 2 • 1 JAN - 20 MARCH
+                    QUALIFYING 2 • 11 JAN - 20 MARCH
                   </h3>
                 </div>
 
@@ -260,6 +298,23 @@
                       <span class="font-bold" style="color: var(--brand-teal);"
                         >To proceed:</span
                       > Top 4 voted projects per group
+                    </div>
+                  </div>
+
+                  <!-- Pool Size -->
+                  <div class="pt-4 border-t border-slate-200">
+                    <div class="text-center">
+                      <div
+                        class="text-xs tracking-wide uppercase text-slate-500 mb-1"
+                      >
+                        Estimated Fund Size
+                      </div>
+                      <div
+                        class="text-2xl font-black font-body"
+                        style="color: var(--brand-teal);"
+                      >
+                        50k€
+                      </div>
                     </div>
                   </div>
                 </div>
@@ -301,7 +356,7 @@
                     class="text-sm font-black uppercase tracking-tight"
                     style="color: var(--brand-oxford);"
                   >
-                    ROUND 1 • 21 MARCH - 18 APRIL
+                    ROUND 1 • 21 MARCH - 30 JUNE
                   </h3>
                 </div>
 
@@ -317,8 +372,8 @@
                       <span
                         class="font-bold"
                         style="color: var(--brand-cordovan);">Format:</span
-                      > Triple Shootout (1 vs 1 vs 1) via pre-sale of 3500 final
-                      Hominio Summit tickets
+                      > Triple Shootout (1 vs 1 vs 1) via pre-sale of 1200 to 3500
+                      final Hominio Summit tickets
                     </div>
                   </div>
 
@@ -327,13 +382,30 @@
                       <span
                         class="font-bold"
                         style="color: var(--brand-cordovan);">Voting:</span
-                      > 1 ticket purchase = 1 vote
+                      > 1 summit ticket = 500 votes
                     </div>
                     <div class="text-sm" style="color: var(--brand-oxford);">
                       <span
                         class="font-bold"
                         style="color: var(--brand-cordovan);">To proceed:</span
                       > 2 of 3 most voted per match
+                    </div>
+                  </div>
+
+                  <!-- Pool Size -->
+                  <div class="pt-4 border-t border-slate-200">
+                    <div class="text-center">
+                      <div
+                        class="text-xs tracking-wide uppercase text-slate-500 mb-1"
+                      >
+                        Estimated Fund Size
+                      </div>
+                      <div
+                        class="text-2xl font-black font-body"
+                        style="color: var(--brand-cordovan);"
+                      >
+                        250k€
+                      </div>
                     </div>
                   </div>
                 </div>
@@ -439,7 +511,7 @@
                     class="text-sm font-black uppercase tracking-tight"
                     style="color: var(--brand-oxford);"
                   >
-                    ROUND 2 • 19 APRIL - 2 MAY
+                    ROUND 2 • 1 JULY - 31 JULY
                   </h3>
                 </div>
 
@@ -465,13 +537,31 @@
                       <span
                         class="font-bold"
                         style="color: var(--brand-yellow);">Voting:</span
-                      > 1 streaming ticket purchase = 1 vote per match
+                      > Summit tickets (500 votes) + Streaming tickets (50 votes
+                      each)
                     </div>
                     <div class="text-sm" style="color: var(--brand-oxford);">
                       <span
                         class="font-bold"
                         style="color: var(--brand-yellow);">To proceed:</span
                       > Most votes per match proceed
+                    </div>
+                  </div>
+
+                  <!-- Pool Size -->
+                  <div class="pt-4 border-t border-slate-200">
+                    <div class="text-center">
+                      <div
+                        class="text-xs tracking-wide uppercase text-slate-500 mb-1"
+                      >
+                        Estimated Fund Size
+                      </div>
+                      <div
+                        class="text-2xl font-black font-body"
+                        style="color: var(--brand-yellow);"
+                      >
+                        500k€
+                      </div>
                     </div>
                   </div>
                 </div>
@@ -513,7 +603,7 @@
                     class="text-sm font-black uppercase tracking-tight"
                     style="color: var(--brand-oxford);"
                   >
-                    ROUND 3 • 3 MAY - 16 MAY
+                    ROUND 3 • 1 AUGUST - 31 AUGUST
                   </h3>
                 </div>
 
@@ -527,7 +617,8 @@
                     <div class="text-sm" style="color: var(--brand-oxford);">
                       <span class="font-bold" style="color: var(--brand-teal);"
                         >Format:</span
-                      > 1€ live-ticker for final Hominio Summit ticket
+                      > 1 vs 1 knockout like in Round 2, but with additional Live
+                      Vote tickets
                     </div>
                   </div>
 
@@ -535,12 +626,30 @@
                     <div class="text-sm" style="color: var(--brand-oxford);">
                       <span class="font-bold" style="color: var(--brand-teal);"
                         >Voting:</span
-                      > 1 ticket - 1 Vote
+                      > Summit tickets (500 votes) + Streaming tickets (50 votes)
+                      + Live Vote tickets (1€ = 1 vote)
                     </div>
                     <div class="text-sm" style="color: var(--brand-oxford);">
                       <span class="font-bold" style="color: var(--brand-teal);"
                         >To proceed:</span
                       > most 1€ votes per match
+                    </div>
+                  </div>
+
+                  <!-- Pool Size -->
+                  <div class="pt-4 border-t border-slate-200">
+                    <div class="text-center">
+                      <div
+                        class="text-xs tracking-wide uppercase text-slate-500 mb-1"
+                      >
+                        Estimated Fund Size
+                      </div>
+                      <div
+                        class="text-2xl font-black font-body"
+                        style="color: var(--brand-teal);"
+                      >
+                        750k€
+                      </div>
                     </div>
                   </div>
                 </div>
@@ -647,7 +756,7 @@
                     class="text-sm font-black uppercase tracking-tight"
                     style="color: var(--brand-oxford);"
                   >
-                    GRAND FINALE • 23 MAI
+                    GRAND FINALE • 19 SEPTEMBER 2026
                   </h3>
                 </div>
 
@@ -674,8 +783,25 @@
                       <span
                         class="font-bold"
                         style="color: var(--brand-cordovan);">Voting:</span
-                      > live event tickets - 365 Votes, streaming ticket - 25 Votes,
-                      Ticker tickets - 1 Vote
+                      > Summit tickets (500 votes) + Streaming tickets (50 votes)
+                      + Live Vote tickets (1€ = 1 vote)
+                    </div>
+                  </div>
+
+                  <!-- Pool Size -->
+                  <div class="pt-4 border-t border-slate-200">
+                    <div class="text-center">
+                      <div
+                        class="text-xs tracking-wide uppercase text-slate-500 mb-1"
+                      >
+                        Estimated Fund Size
+                      </div>
+                      <div
+                        class="text-2xl font-black font-body"
+                        style="color: var(--brand-cordovan);"
+                      >
+                        1 Million €
+                      </div>
                     </div>
                   </div>
                 </div>
@@ -781,12 +907,6 @@
                         style="color: var(--brand-oxford);"
                       >
                         seedfunding
-                      </div>
-                      <div
-                        class="text-lg font-medium font-display"
-                        style="color: var(--brand-cordovan);"
-                      >
-                        for 11% equity
                       </div>
                     </div>
                   </div>
