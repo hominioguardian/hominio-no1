@@ -1,15 +1,4 @@
 <script>
-  import VotingBenefitsModal from "./VotingBenefitsModal.svelte";
-
-  let showBenefitsModal = false;
-
-  function openBenefitsModal() {
-    showBenefitsModal = true;
-  }
-
-  function closeBenefitsModal() {
-    showBenefitsModal = false;
-  }
 </script>
 
 <section
@@ -246,7 +235,7 @@
                     FOUNDER B
                   </h5>
                   <p class="text-sm font-medium text-white/90">
-                    Blockchain supply chain transparency
+                    Ocean plastic cleanup technology
                   </p>
                 </div>
 
@@ -298,96 +287,6 @@
         </div>
       </div>
 
-      <!-- Win-Win Section -->
-      <div
-        class="p-12 rounded-3xl border border-yellow-100 shadow-xl backdrop-blur-sm bg-white/80"
-      >
-        <h4
-          class="mb-8 text-3xl font-black text-center md:text-4xl font-body"
-          style="color: var(--brand-cordovan);"
-        >
-          WIN-WIN FOR THE FOUNDER AND THE CONTRIBUTOR
-        </h4>
-
-        <div class="grid gap-12 text-center md:grid-cols-2">
-          <div>
-            <div class="flex justify-center mb-4">
-              <div
-                class="flex justify-center items-center w-16 h-16 rounded-full"
-                style="background: linear-gradient(135deg, var(--brand-yellow), var(--brand-teal));"
-              >
-                <svg class="w-8 h-8" viewBox="0 0 24 24" fill="none">
-                  <path d="M12 2L16 8H14V16H10V8H8L12 2Z" fill="white" />
-                  <path
-                    d="M8 18L10 16V22L8 20V18Z"
-                    fill="white"
-                    opacity="0.8"
-                  />
-                  <path
-                    d="M16 18L14 16V22L16 20V18Z"
-                    fill="white"
-                    opacity="0.8"
-                  />
-                </svg>
-              </div>
-            </div>
-            <h5
-              class="mb-3 text-xl font-black font-body"
-              style="color: var(--brand-cordovan);"
-            >
-              FOR THE FOUNDER
-            </h5>
-            <p
-              class="text-xl leading-relaxed md:text-2xl font-display"
-              style="color: var(--brand-oxford);"
-            >
-              Each vote gives your vision<br />
-              the competitive advantage to proceed
-            </p>
-          </div>
-
-          <div>
-            <div class="flex justify-center mb-4">
-              <div
-                class="flex justify-center items-center w-16 h-16 rounded-full"
-                style="background: linear-gradient(135deg, var(--brand-teal), var(--brand-cordovan));"
-              >
-                <svg class="w-8 h-8" viewBox="0 0 24 24" fill="none">
-                  <circle cx="12" cy="12" r="9" fill="white" opacity="0.3" />
-                  <circle cx="12" cy="12" r="6" fill="white" opacity="0.6" />
-                  <circle cx="12" cy="12" r="3" fill="white" opacity="0.9" />
-                  <circle cx="12" cy="12" r="1" fill="white" />
-                </svg>
-              </div>
-            </div>
-            <h5
-              class="mb-3 text-xl font-black font-body"
-              style="color: var(--brand-cordovan);"
-            >
-              FOR THE CONTRIBUTOR
-            </h5>
-            <p
-              class="text-xl leading-relaxed md:text-2xl font-display"
-              style="color: var(--brand-oxford);"
-            >
-              Each vote unlocks more benefits<br />
-              while you level up your engagement
-            </p>
-          </div>
-        </div>
-
-        <!-- Benefits Button -->
-        <div class="mt-12 text-center">
-          <button
-            class="px-16 py-8 text-2xl font-black text-white bg-gradient-to-r from-yellow-400 to-teal-500 rounded-full shadow-xl transition-all duration-200 transform hover:from-yellow-500 hover:to-teal-600 font-body hover:shadow-2xl hover:scale-105"
-            style="color: var(--brand-cordovan);"
-            on:click={openBenefitsModal}
-          >
-            EXPLORE ALL BENEFITS
-          </button>
-        </div>
-      </div>
-
       <!-- Simple Conclusion -->
       <div class="text-center">
         <p
@@ -400,9 +299,3 @@
     </div>
   </div>
 </section>
-
-<!-- Benefits Modal -->
-<VotingBenefitsModal
-  bind:isOpen={showBenefitsModal}
-  on:close={closeBenefitsModal}
-/>

@@ -55,7 +55,7 @@
               <p
                 class="text-xl italic font-medium leading-relaxed text-blue-900"
               >
-                "My friends, when 1 million sparkling eyes unite... this is what
+                "My friends, when 1 billion sparkling eyes unite... this is what
                 I will create..."
               </p>
               <div

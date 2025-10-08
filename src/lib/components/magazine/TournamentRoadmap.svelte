@@ -11,7 +11,7 @@
           <div class="leading-tight">
             <div class="mb-2">
               <span
-                class="text-2xl md:text-3xl lg:text-4xl font-display font-light"
+                class="text-2xl font-light md:text-3xl lg:text-4xl font-display"
                 style="color: var(--brand-cordovan);"
               >
                 Founders,
@@ -19,7 +19,7 @@
             </div>
             <div>
               <span
-                class="text-2xl md:text-3xl lg:text-4xl font-display font-light mr-3"
+                class="mr-3 text-2xl font-light md:text-3xl lg:text-4xl font-display"
                 style="color: var(--brand-cordovan);"
               >
                 this is
